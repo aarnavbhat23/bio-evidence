@@ -1,0 +1,54 @@
+{
+  "groups": [
+    {
+      "comparison_contract": {
+        "task": "top10 neighbor fidelity after embedding quantization",
+        "dataset_sha256": "b21b139764672c4779a2d9d675e636889b1a8d8dc7b37eaa2ccf8d620dc35e11",
+        "hardware": "Darwin arm64",
+        "measurement_protocol": "100x320 float32 cosine retrieval after storage roundtrip; warmup excluded; 25 serial calls; tracemalloc peak excludes model weights and nontraced native memory",
+        "metric": "mean top10 neighbor overlap with float32 reference (higher better)"
+      },
+      "runs": [
+        {
+          "id": "float32",
+          "quality": 1.0,
+          "latency_ms": 0.25923172,
+          "n_latency_samples": 25,
+          "peak_memory_mb": 0.578312,
+          "cost_usd": 0.0,
+          "eligible": true,
+          "on_frontier": false
+        },
+        {
+          "id": "float16_roundtrip",
+          "quality": 1.0,
+          "latency_ms": 0.22766168,
+          "n_latency_samples": 25,
+          "peak_memory_mb": 0.578224,
+          "cost_usd": 0.0,
+          "eligible": true,
+          "on_frontier": true
+        },
+        {
+          "id": "per_vector_int8_roundtrip",
+          "quality": 0.9790000000000001,
+          "latency_ms": 0.23354656,
+          "n_latency_samples": 25,
+          "peak_memory_mb": 0.578224,
+          "cost_usd": 0.0,
+          "eligible": true,
+          "on_frontier": false
+        }
+      ],
+      "frontier_ids": [
+        "float16_roundtrip"
+      ]
+    }
+  ],
+  "limits": {},
+  "interpretation": "Quality must be higher-is-better. Different contracts are never ranked together. Sample means alone do not establish statistical dominance; repeat runs and quantify uncertainty before claiming a winner.",
+  "study_note": "Actual local measurements of saved embedding retrieval, not ESM inference cost. Quality is neighbor fidelity, not biological accuracy; memory is traced allocation peak, not GPU/process RSS. Tiny timing gaps are noisy and no statistical winner is claimed.",
+  "source_files": [
+    "atlas-embeddings.json"
+  ]
+}

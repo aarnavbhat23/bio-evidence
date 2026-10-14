@@ -1,0 +1,5 @@
+# Input schema and interpretation
+
+Each `runs` row requires unique `id`, `task`, `dataset_sha256`, `hardware`, `measurement_protocol`, `metric`, numeric higher-is-better `quality`, positive numeric `latencies_ms` list, nonnegative `peak_memory_mb`, and `cost_usd`. Use honest measurements and include device, precision, batch size, sequence lengths, warmup and version details in the comparison contract. The synthetic example contains invented numbers and placeholder dataset metadata.
+
+Optional `limits`: latency_ms, peak_memory_mb, cost_usd and min_quality. Comparability is exact equality of task/dataset/hardware/protocol/metric. Within each eligible group, a configuration is dominated when another has at least equal quality and at most every resource cost, with one strict advantage. Identical points both stay on the frontier. Latency is a sample mean, not a percentile. No statistical uncertainty, accuracy standardization or currency estimates are inferred. Metadata equality is a caller declaration, not verified experimental comparability.

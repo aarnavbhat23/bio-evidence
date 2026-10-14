@@ -1,0 +1,42 @@
+{
+  "assays.tsv": {
+    "url": "https://raw.githubusercontent.com/aarnavbhat23/spear-wetlab-false-positive-audit/5ac295c08f48aef43c991ba40a706f0e2fedb5b7/data/df_wetlab_heatmap_results.tsv",
+    "sha256": "f873b6a70745d1c29151b908b39b36ce9addfb67cac0b56ede4e9c6382555458",
+    "bytes": 1392352
+  },
+  "hgnc.tsv": {
+    "url": "https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt",
+    "sha256": "2828618d23d315be76ea415f7ef0e951858716ebab07e2d584190f52e5178c1e",
+    "bytes": 16982276
+  },
+  "trpcage.pdb": {
+    "url": "https://files.rcsb.org/download/1L2Y.pdb",
+    "sha256": "5d1bbb545a312dfff1ae1e64b6d8addecb2f561ddc4011aeb5bee9d1dfcd4438",
+    "bytes": 959202
+  },
+  "scifact.tar.gz": {
+    "url": "https://scifact.s3-us-west-2.amazonaws.com/release/latest/data.tar.gz",
+    "sha256": "11c621288d41ac144d29b13b0f8503b3820b7d6e8b1f6ff24dff335c196d76be",
+    "bytes": 3115079
+  },
+  "kang.h5ad": {
+    "url": "https://drive.google.com/uc?export=download&id=1r87vhoLLq6PXAYdmyyd89zG90eJOFYLk",
+    "sha256": "2b123716d31f9bd96685034cb72b167acf8376986baacca13cdc0f3c3e82aad8",
+    "bytes": 23533440
+  },
+  "atlas-embeddings.json": {
+    "url": "https://raw.githubusercontent.com/aarnavbhat23/protein-neighbor-drift/9d0a4e955f2f7b4af2178dc229611f569fc1e2cf/results/esm-public-atlas/input.json",
+    "sha256": "87a99286fc221447199390e905d4fe65f9ca7d969075807841e5a656d002dccf",
+    "bytes": 990062
+  },
+  "BR00116991.csv.gz": {
+    "url": "https://media.githubusercontent.com/media/jump-cellpainting/2024_Chandrasekaran_NatureMethods_CPJUMP1/56845c7d4dc322652952783d91dae0ffef47829f/profiles/2020_11_04_CPJUMP1/BR00116991/BR00116991_normalized_feature_select_negcon_batch.csv.gz",
+    "sha256": "0dcb95c3ce07f2010e9cdd9408d6ca558d9cde54cd683128aaa14e486cba537f",
+    "bytes": 1160665
+  },
+  "BR00116992.csv.gz": {
+    "url": "https://media.githubusercontent.com/media/jump-cellpainting/2024_Chandrasekaran_NatureMethods_CPJUMP1/56845c7d4dc322652952783d91dae0ffef47829f/profiles/2020_11_04_CPJUMP1/BR00116992/BR00116992_normalized_feature_select_negcon_batch.csv.gz",
+    "sha256": "2622b76d4865ac8a0393f984b38f17d923a39c57b559544b483895d21d409a06",
+    "bytes": 1157006
+  }
+}

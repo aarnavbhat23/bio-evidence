@@ -1,0 +1,45 @@
+{
+  "n_models": 3,
+  "n_residues": 4,
+  "pairs": [
+    {
+      "left": "seed0",
+      "right": "seed1",
+      "ca_rmsd_angstrom": 4.154074181055225e-16
+    },
+    {
+      "left": "seed0",
+      "right": "seed2",
+      "ca_rmsd_angstrom": 0.33053235301458017
+    },
+    {
+      "left": "seed1",
+      "right": "seed2",
+      "ca_rmsd_angstrom": 0.33053235301458006
+    }
+  ],
+  "residues": [
+    {
+      "key": "A:1:",
+      "mean_pair_displacement_angstrom": 0.1723424228220721
+    },
+    {
+      "key": "A:2:",
+      "mean_pair_displacement_angstrom": 0.10345748299618451
+    },
+    {
+      "key": "A:3:",
+      "mean_pair_displacement_angstrom": 0.10345748299618425
+    },
+    {
+      "key": "A:4:",
+      "mean_pair_displacement_angstrom": 0.3783071755582494
+    }
+  ],
+  "interpretation": "Global rigid alignment over all supplied chains. Fixed chain correspondence; symmetry permutations and domainwise alignment are not attempted. Consistency is not accuracy or thermodynamic flexibility.",
+  "provenance": {
+    "input_sha256": "be159fbdedc91c16bab21b101075f7566e44bac94b17aba44cd52e0a968f20f0",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

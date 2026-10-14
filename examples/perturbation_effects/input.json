@@ -1,0 +1,39 @@
+{
+  "effect_threshold": 0.2,
+  "effect_units": "synthetic log2 fold change",
+  "rows": [
+    {
+      "id": "r1",
+      "context": "cell-A",
+      "gene": "GENE1",
+      "perturbation": "drug-X",
+      "observed_effect": 1.0,
+      "predicted_effect": 0.8
+    },
+    {
+      "id": "r2",
+      "context": "cell-A",
+      "gene": "GENE2",
+      "perturbation": "drug-X",
+      "observed_effect": -0.8,
+      "predicted_effect": 0.6
+    },
+    {
+      "id": "r3",
+      "context": "cell-B",
+      "gene": "GENE1",
+      "perturbation": "drug-X",
+      "observed_effect": 0.05,
+      "predicted_effect": 1.0
+    },
+    {
+      "id": "r4",
+      "context": "cell-B",
+      "gene": "GENE2",
+      "perturbation": "drug-X",
+      "observed_effect": 0.7,
+      "predicted_effect": 0.1
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

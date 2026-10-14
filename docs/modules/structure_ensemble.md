@@ -1,0 +1,5 @@
+# Input schema and interpretation
+
+Input `models`: unique `id`, ordered `residue_keys`, `residue_names`, and N x 3 `coordinates` in Angstroms. Keys encode chain, residue number and insertion code; names and keys must match exactly across models. At least two models and three residues are required. Coordinates should be C-alpha atoms, not mixed atom types. The PDB converter accepts the first model and selects one altloc in preference order blank, A, then alphabetical; CIF requires separate conversion. It rejects duplicate C-alpha records at the same residue/altloc.
+
+Kabsch alignment minimizes global coordinate error while excluding reflections. Pairwise RMSD is root mean square aligned distance. Each residue's mean displacement averages across model pairs. All chains are aligned globally with caller-fixed correspondence. Symmetry swaps, domainwise alignment, missing-residue intersections, atom-level clashes and experimental accuracy are outside scope. Seed variation is not a thermodynamic ensemble.

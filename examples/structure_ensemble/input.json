@@ -1,0 +1,116 @@
+{
+  "models": [
+    {
+      "id": "seed0",
+      "residue_keys": [
+        "A:1:",
+        "A:2:",
+        "A:3:",
+        "A:4:"
+      ],
+      "residue_names": [
+        "ALA",
+        "GLY",
+        "LYS",
+        "LEU"
+      ],
+      "coordinates": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "seed1",
+      "residue_keys": [
+        "A:1:",
+        "A:2:",
+        "A:3:",
+        "A:4:"
+      ],
+      "residue_names": [
+        "ALA",
+        "GLY",
+        "LYS",
+        "LEU"
+      ],
+      "coordinates": [
+        [
+          3,
+          2,
+          1
+        ],
+        [
+          3,
+          3,
+          1
+        ],
+        [
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          2,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "seed2",
+      "residue_keys": [
+        "A:1:",
+        "A:2:",
+        "A:3:",
+        "A:4:"
+      ],
+      "residue_names": [
+        "ALA",
+        "GLY",
+        "LYS",
+        "LEU"
+      ],
+      "coordinates": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1.8
+        ]
+      ]
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

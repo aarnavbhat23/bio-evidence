@@ -1,0 +1,88 @@
+{
+  "limits": {
+    "peak_memory_mb": 2000
+  },
+  "runs": [
+    {
+      "id": "baseline",
+      "task": "toy-family-retrieval",
+      "dataset_sha256": "synthetic-fixture-v1",
+      "hardware": "toy-CPU",
+      "measurement_protocol": "toy; invented numbers",
+      "metric": "higher-is-better macro-F1",
+      "quality": 0.7,
+      "latencies_ms": [
+        12,
+        13,
+        11
+      ],
+      "peak_memory_mb": 80,
+      "cost_usd": 0
+    },
+    {
+      "id": "small-encoder",
+      "task": "toy-family-retrieval",
+      "dataset_sha256": "synthetic-fixture-v1",
+      "hardware": "toy-CPU",
+      "measurement_protocol": "toy; invented numbers",
+      "metric": "higher-is-better macro-F1",
+      "quality": 0.8,
+      "latencies_ms": [
+        60,
+        61,
+        59
+      ],
+      "peak_memory_mb": 600,
+      "cost_usd": 0
+    },
+    {
+      "id": "dominated",
+      "task": "toy-family-retrieval",
+      "dataset_sha256": "synthetic-fixture-v1",
+      "hardware": "toy-CPU",
+      "measurement_protocol": "toy; invented numbers",
+      "metric": "higher-is-better macro-F1",
+      "quality": 0.75,
+      "latencies_ms": [
+        100,
+        101,
+        99
+      ],
+      "peak_memory_mb": 1000,
+      "cost_usd": 0
+    },
+    {
+      "id": "large-encoder",
+      "task": "toy-family-retrieval",
+      "dataset_sha256": "synthetic-fixture-v1",
+      "hardware": "toy-CPU",
+      "measurement_protocol": "toy; invented numbers",
+      "metric": "higher-is-better macro-F1",
+      "quality": 0.9,
+      "latencies_ms": [
+        400,
+        401,
+        399
+      ],
+      "peak_memory_mb": 4000,
+      "cost_usd": 0
+    },
+    {
+      "id": "other-device",
+      "task": "toy-family-retrieval",
+      "dataset_sha256": "synthetic-fixture-v1",
+      "hardware": "toy-GPU",
+      "measurement_protocol": "toy; invented numbers",
+      "metric": "higher-is-better macro-F1",
+      "quality": 0.85,
+      "latencies_ms": [
+        5,
+        6,
+        4
+      ],
+      "peak_memory_mb": 500,
+      "cost_usd": 0
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

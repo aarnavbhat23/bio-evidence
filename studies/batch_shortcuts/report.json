@@ -1,0 +1,3950 @@
+{
+  "within_batch": {
+    "n_eligible": 0,
+    "n_ineligible": 520,
+    "top1_hit_rate": null,
+    "random_candidate_hit_rate": null,
+    "queries": []
+  },
+  "cross_batch": {
+    "n_eligible": 520,
+    "n_ineligible": 0,
+    "top1_hit_rate": 0.24615384615384617,
+    "random_candidate_hit_rate": 0.0038461538461538464,
+    "queries": [
+      {
+        "id": "BR00116991:A01",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A03",
+        "nearest_id": "BR00116992:P21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A04",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A05",
+        "nearest_id": "BR00116992:A14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A06",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A07",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A08",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A10",
+        "nearest_id": "BR00116992:A10",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A11",
+        "nearest_id": "BR00116992:A11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A12",
+        "nearest_id": "BR00116992:O01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A13",
+        "nearest_id": "BR00116992:D06",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A14",
+        "nearest_id": "BR00116992:N15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A15",
+        "nearest_id": "BR00116992:A15",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A16",
+        "nearest_id": "BR00116992:A16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A18",
+        "nearest_id": "BR00116992:A18",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A19",
+        "nearest_id": "BR00116992:E12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A20",
+        "nearest_id": "BR00116992:A11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A21",
+        "nearest_id": "BR00116992:E16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A22",
+        "nearest_id": "BR00116992:J10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A23",
+        "nearest_id": "BR00116992:A23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:A24",
+        "nearest_id": "BR00116992:A24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B01",
+        "nearest_id": "BR00116992:B01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B02",
+        "nearest_id": "BR00116992:B02",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B04",
+        "nearest_id": "BR00116992:B04",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B05",
+        "nearest_id": "BR00116992:J05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B06",
+        "nearest_id": "BR00116992:N12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B07",
+        "nearest_id": "BR00116992:F11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B08",
+        "nearest_id": "BR00116992:A22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B09",
+        "nearest_id": "BR00116992:B09",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B10",
+        "nearest_id": "BR00116992:J10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B11",
+        "nearest_id": "BR00116992:A23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B12",
+        "nearest_id": "BR00116992:J10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B13",
+        "nearest_id": "BR00116992:D12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B15",
+        "nearest_id": "BR00116992:B15",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B16",
+        "nearest_id": "BR00116992:B16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B17",
+        "nearest_id": "BR00116992:B17",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B18",
+        "nearest_id": "BR00116992:I23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B19",
+        "nearest_id": "BR00116992:B19",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B20",
+        "nearest_id": "BR00116992:G14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B21",
+        "nearest_id": "BR00116992:H22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B22",
+        "nearest_id": "BR00116992:B21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B23",
+        "nearest_id": "BR00116992:I24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:B24",
+        "nearest_id": "BR00116992:B24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C01",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C02",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C04",
+        "nearest_id": "BR00116992:C04",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C05",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C07",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C08",
+        "nearest_id": "BR00116992:C08",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C10",
+        "nearest_id": "BR00116992:C10",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C11",
+        "nearest_id": "BR00116992:O04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C14",
+        "nearest_id": "BR00116992:N12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C16",
+        "nearest_id": "BR00116992:O13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C17",
+        "nearest_id": "BR00116992:G08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C19",
+        "nearest_id": "BR00116992:H15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C20",
+        "nearest_id": "BR00116992:C20",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C22",
+        "nearest_id": "BR00116992:C22",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C23",
+        "nearest_id": "BR00116992:C23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:C24",
+        "nearest_id": "BR00116992:O24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D01",
+        "nearest_id": "BR00116992:F02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D02",
+        "nearest_id": "BR00116992:P07",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D03",
+        "nearest_id": "BR00116992:O01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D04",
+        "nearest_id": "BR00116992:F04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D06",
+        "nearest_id": "BR00116992:J03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D09",
+        "nearest_id": "BR00116992:J05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D10",
+        "nearest_id": "BR00116992:F18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D12",
+        "nearest_id": "BR00116992:J10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D13",
+        "nearest_id": "BR00116992:L23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D17",
+        "nearest_id": "BR00116992:E12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D18",
+        "nearest_id": "BR00116992:G19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D19",
+        "nearest_id": "BR00116992:H23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D20",
+        "nearest_id": "BR00116992:H23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D23",
+        "nearest_id": "BR00116992:G14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:D24",
+        "nearest_id": "BR00116992:I24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E01",
+        "nearest_id": "BR00116992:P21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E02",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E03",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E04",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E08",
+        "nearest_id": "BR00116992:A14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E11",
+        "nearest_id": "BR00116992:E08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E12",
+        "nearest_id": "BR00116992:F14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E15",
+        "nearest_id": "BR00116992:E08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E16",
+        "nearest_id": "BR00116992:E16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E18",
+        "nearest_id": "BR00116992:B17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E19",
+        "nearest_id": "BR00116992:G11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:E23",
+        "nearest_id": "BR00116992:E23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F02",
+        "nearest_id": "BR00116992:P03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F04",
+        "nearest_id": "BR00116992:H08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F05",
+        "nearest_id": "BR00116992:J05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F07",
+        "nearest_id": "BR00116992:F07",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F08",
+        "nearest_id": "BR00116992:J15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F10",
+        "nearest_id": "BR00116992:D12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F11",
+        "nearest_id": "BR00116992:F11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F12",
+        "nearest_id": "BR00116992:J13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F14",
+        "nearest_id": "BR00116992:H23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F15",
+        "nearest_id": "BR00116992:E12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F17",
+        "nearest_id": "BR00116992:E12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F18",
+        "nearest_id": "BR00116992:G19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F20",
+        "nearest_id": "BR00116992:G16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F21",
+        "nearest_id": "BR00116992:G15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F23",
+        "nearest_id": "BR00116992:F23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:F24",
+        "nearest_id": "BR00116992:C24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G01",
+        "nearest_id": "BR00116992:P21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G02",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G03",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G05",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G06",
+        "nearest_id": "BR00116992:K21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G07",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G08",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G11",
+        "nearest_id": "BR00116992:J10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G12",
+        "nearest_id": "BR00116992:G14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G14",
+        "nearest_id": "BR00116992:L10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G15",
+        "nearest_id": "BR00116992:L10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G16",
+        "nearest_id": "BR00116992:G08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G19",
+        "nearest_id": "BR00116992:G07",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G20",
+        "nearest_id": "BR00116992:G14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G22",
+        "nearest_id": "BR00116992:H23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G23",
+        "nearest_id": "BR00116992:H23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:G24",
+        "nearest_id": "BR00116992:M24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H01",
+        "nearest_id": "BR00116992:K17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H02",
+        "nearest_id": "BR00116992:P04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H06",
+        "nearest_id": "BR00116992:P07",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H08",
+        "nearest_id": "BR00116992:D13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H09",
+        "nearest_id": "BR00116992:H15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H12",
+        "nearest_id": "BR00116992:N05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H14",
+        "nearest_id": "BR00116992:C08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H15",
+        "nearest_id": "BR00116992:J13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H16",
+        "nearest_id": "BR00116992:H16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H20",
+        "nearest_id": "BR00116992:B21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H22",
+        "nearest_id": "BR00116992:G24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H23",
+        "nearest_id": "BR00116992:G14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:H24",
+        "nearest_id": "BR00116992:H24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I01",
+        "nearest_id": "BR00116992:P21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I03",
+        "nearest_id": "BR00116992:A14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I04",
+        "nearest_id": "BR00116992:P21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I07",
+        "nearest_id": "BR00116992:I07",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I08",
+        "nearest_id": "BR00116992:A22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I11",
+        "nearest_id": "BR00116992:D04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I12",
+        "nearest_id": "BR00116992:L10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I13",
+        "nearest_id": "BR00116992:D04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I15",
+        "nearest_id": "BR00116992:M07",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I19",
+        "nearest_id": "BR00116992:A18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I20",
+        "nearest_id": "BR00116992:I20",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I23",
+        "nearest_id": "BR00116992:B21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:I24",
+        "nearest_id": "BR00116992:C24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J01",
+        "nearest_id": "BR00116992:O01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J02",
+        "nearest_id": "BR00116992:F02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J03",
+        "nearest_id": "BR00116992:J03",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J05",
+        "nearest_id": "BR00116992:J05",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J07",
+        "nearest_id": "BR00116992:J05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J08",
+        "nearest_id": "BR00116992:C22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J10",
+        "nearest_id": "BR00116992:J10",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J11",
+        "nearest_id": "BR00116992:H15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J12",
+        "nearest_id": "BR00116992:L10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J13",
+        "nearest_id": "BR00116992:J13",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J15",
+        "nearest_id": "BR00116992:L10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J16",
+        "nearest_id": "BR00116992:M09",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J18",
+        "nearest_id": "BR00116992:L10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J21",
+        "nearest_id": "BR00116992:K17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:J24",
+        "nearest_id": "BR00116992:G15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K01",
+        "nearest_id": "BR00116992:C20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K02",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K07",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K08",
+        "nearest_id": "BR00116992:K08",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K09",
+        "nearest_id": "BR00116992:L03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K12",
+        "nearest_id": "BR00116992:K12",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K14",
+        "nearest_id": "BR00116992:K14",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K15",
+        "nearest_id": "BR00116992:L11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K17",
+        "nearest_id": "BR00116992:H01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K18",
+        "nearest_id": "BR00116992:F20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K21",
+        "nearest_id": "BR00116992:C20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K22",
+        "nearest_id": "BR00116992:G14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K23",
+        "nearest_id": "BR00116992:M14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:K24",
+        "nearest_id": "BR00116992:K24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L01",
+        "nearest_id": "BR00116992:L01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L03",
+        "nearest_id": "BR00116992:L10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L04",
+        "nearest_id": "BR00116992:L04",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L07",
+        "nearest_id": "BR00116992:J15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L10",
+        "nearest_id": "BR00116992:L10",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L11",
+        "nearest_id": "BR00116992:L11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L13",
+        "nearest_id": "BR00116992:G22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L14",
+        "nearest_id": "BR00116992:L14",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L16",
+        "nearest_id": "BR00116992:L16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L17",
+        "nearest_id": "BR00116992:B19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L19",
+        "nearest_id": "BR00116992:H23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L20",
+        "nearest_id": "BR00116992:L20",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L21",
+        "nearest_id": "BR00116992:L21",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L22",
+        "nearest_id": "BR00116992:G16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L23",
+        "nearest_id": "BR00116992:L23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:L24",
+        "nearest_id": "BR00116992:C24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M02",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M03",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M05",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M06",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M07",
+        "nearest_id": "BR00116992:O01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M08",
+        "nearest_id": "BR00116992:M03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M09",
+        "nearest_id": "BR00116992:M09",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M11",
+        "nearest_id": "BR00116992:M11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M12",
+        "nearest_id": "BR00116992:J10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M13",
+        "nearest_id": "BR00116992:I13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M14",
+        "nearest_id": "BR00116992:M14",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M15",
+        "nearest_id": "BR00116992:M15",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M19",
+        "nearest_id": "BR00116992:K17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M21",
+        "nearest_id": "BR00116992:D23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:M24",
+        "nearest_id": "BR00116992:C24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N01",
+        "nearest_id": "BR00116992:N01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N02",
+        "nearest_id": "BR00116992:N02",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N03",
+        "nearest_id": "BR00116992:C20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N05",
+        "nearest_id": "BR00116992:H09",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N10",
+        "nearest_id": "BR00116992:A22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N12",
+        "nearest_id": "BR00116992:N12",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N13",
+        "nearest_id": "BR00116992:N13",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N15",
+        "nearest_id": "BR00116992:C20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N16",
+        "nearest_id": "BR00116992:B11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N23",
+        "nearest_id": "BR00116992:G14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:N24",
+        "nearest_id": "BR00116992:B21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O01",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O02",
+        "nearest_id": "BR00116992:O02",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O03",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O04",
+        "nearest_id": "BR00116992:O02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O05",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O06",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O08",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O09",
+        "nearest_id": "BR00116992:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O10",
+        "nearest_id": "BR00116992:D02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O11",
+        "nearest_id": "BR00116992:D02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O12",
+        "nearest_id": "BR00116992:P16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O13",
+        "nearest_id": "BR00116992:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O14",
+        "nearest_id": "BR00116992:D06",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O15",
+        "nearest_id": "BR00116992:D03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O16",
+        "nearest_id": "BR00116992:K08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O17",
+        "nearest_id": "BR00116992:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O19",
+        "nearest_id": "BR00116992:L22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O20",
+        "nearest_id": "BR00116992:N23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O21",
+        "nearest_id": "BR00116992:L19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O22",
+        "nearest_id": "BR00116992:E16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O23",
+        "nearest_id": "BR00116992:K23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:O24",
+        "nearest_id": "BR00116992:B20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P01",
+        "nearest_id": "BR00116992:P01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P02",
+        "nearest_id": "BR00116992:P03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P03",
+        "nearest_id": "BR00116992:P03",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P04",
+        "nearest_id": "BR00116992:P03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P06",
+        "nearest_id": "BR00116992:P02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P07",
+        "nearest_id": "BR00116992:P06",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P08",
+        "nearest_id": "BR00116992:P02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P09",
+        "nearest_id": "BR00116992:P06",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P11",
+        "nearest_id": "BR00116992:O01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P12",
+        "nearest_id": "BR00116992:P12",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P13",
+        "nearest_id": "BR00116992:P13",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P14",
+        "nearest_id": "BR00116992:P02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P15",
+        "nearest_id": "BR00116992:J24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P16",
+        "nearest_id": "BR00116992:P16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P17",
+        "nearest_id": "BR00116992:P17",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P18",
+        "nearest_id": "BR00116992:A20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P19",
+        "nearest_id": "BR00116992:B09",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P20",
+        "nearest_id": "BR00116992:B17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P21",
+        "nearest_id": "BR00116992:K23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P22",
+        "nearest_id": "BR00116992:N23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P23",
+        "nearest_id": "BR00116992:F23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116991:P24",
+        "nearest_id": "BR00116992:C20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A01",
+        "nearest_id": "BR00116991:C01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A03",
+        "nearest_id": "BR00116991:B04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A04",
+        "nearest_id": "BR00116991:C01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A05",
+        "nearest_id": "BR00116991:P01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A06",
+        "nearest_id": "BR00116991:C01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A07",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A08",
+        "nearest_id": "BR00116991:L01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A10",
+        "nearest_id": "BR00116991:A10",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A11",
+        "nearest_id": "BR00116991:A11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A12",
+        "nearest_id": "BR00116991:P17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A13",
+        "nearest_id": "BR00116991:A10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A14",
+        "nearest_id": "BR00116991:A14",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A15",
+        "nearest_id": "BR00116991:A15",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A16",
+        "nearest_id": "BR00116991:A16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A18",
+        "nearest_id": "BR00116991:A18",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A19",
+        "nearest_id": "BR00116991:L11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A20",
+        "nearest_id": "BR00116991:P24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A21",
+        "nearest_id": "BR00116991:A03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A22",
+        "nearest_id": "BR00116991:B15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A23",
+        "nearest_id": "BR00116991:A23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:A24",
+        "nearest_id": "BR00116991:A24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B01",
+        "nearest_id": "BR00116991:B01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B02",
+        "nearest_id": "BR00116991:B02",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B04",
+        "nearest_id": "BR00116991:B04",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B05",
+        "nearest_id": "BR00116991:P16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B06",
+        "nearest_id": "BR00116991:C14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B07",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B08",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B09",
+        "nearest_id": "BR00116991:B09",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B10",
+        "nearest_id": "BR00116991:M08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B11",
+        "nearest_id": "BR00116991:B11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B12",
+        "nearest_id": "BR00116991:D03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B13",
+        "nearest_id": "BR00116991:N13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B15",
+        "nearest_id": "BR00116991:B15",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B16",
+        "nearest_id": "BR00116991:B16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B17",
+        "nearest_id": "BR00116991:B17",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B18",
+        "nearest_id": "BR00116991:K24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B19",
+        "nearest_id": "BR00116991:B19",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B20",
+        "nearest_id": "BR00116991:L11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B21",
+        "nearest_id": "BR00116991:G19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B22",
+        "nearest_id": "BR00116991:B21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B23",
+        "nearest_id": "BR00116991:B23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:B24",
+        "nearest_id": "BR00116991:B24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C01",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C02",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C04",
+        "nearest_id": "BR00116991:C04",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C05",
+        "nearest_id": "BR00116991:O10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C07",
+        "nearest_id": "BR00116991:O22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C08",
+        "nearest_id": "BR00116991:B16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C10",
+        "nearest_id": "BR00116991:C10",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C11",
+        "nearest_id": "BR00116991:D19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C14",
+        "nearest_id": "BR00116991:L11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C16",
+        "nearest_id": "BR00116991:K21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C17",
+        "nearest_id": "BR00116991:C20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C19",
+        "nearest_id": "BR00116991:F23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C20",
+        "nearest_id": "BR00116991:N03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C22",
+        "nearest_id": "BR00116991:C22",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C23",
+        "nearest_id": "BR00116991:A18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:C24",
+        "nearest_id": "BR00116991:L24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D01",
+        "nearest_id": "BR00116991:P02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D02",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D03",
+        "nearest_id": "BR00116991:J03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D04",
+        "nearest_id": "BR00116991:B04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D06",
+        "nearest_id": "BR00116991:A13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D09",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D10",
+        "nearest_id": "BR00116991:B11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D12",
+        "nearest_id": "BR00116991:B10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D13",
+        "nearest_id": "BR00116991:E18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D17",
+        "nearest_id": "BR00116991:P20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D18",
+        "nearest_id": "BR00116991:D18",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D19",
+        "nearest_id": "BR00116991:D19",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D20",
+        "nearest_id": "BR00116991:F23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D23",
+        "nearest_id": "BR00116991:B24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:D24",
+        "nearest_id": "BR00116991:B24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E01",
+        "nearest_id": "BR00116991:M02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E02",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E03",
+        "nearest_id": "BR00116991:O13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E04",
+        "nearest_id": "BR00116991:O10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E08",
+        "nearest_id": "BR00116991:E15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E11",
+        "nearest_id": "BR00116991:A16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E12",
+        "nearest_id": "BR00116991:F20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E15",
+        "nearest_id": "BR00116991:E18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E16",
+        "nearest_id": "BR00116991:E16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E18",
+        "nearest_id": "BR00116991:L16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E19",
+        "nearest_id": "BR00116991:B13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:E23",
+        "nearest_id": "BR00116991:E23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F02",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F04",
+        "nearest_id": "BR00116991:D04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F05",
+        "nearest_id": "BR00116991:H15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F07",
+        "nearest_id": "BR00116991:F07",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F08",
+        "nearest_id": "BR00116991:P03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F10",
+        "nearest_id": "BR00116991:D12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F11",
+        "nearest_id": "BR00116991:F11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F12",
+        "nearest_id": "BR00116991:O10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F14",
+        "nearest_id": "BR00116991:F20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F15",
+        "nearest_id": "BR00116991:B09",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F17",
+        "nearest_id": "BR00116991:K18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F18",
+        "nearest_id": "BR00116991:A18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F20",
+        "nearest_id": "BR00116991:F20",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F21",
+        "nearest_id": "BR00116991:G19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F23",
+        "nearest_id": "BR00116991:B17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:F24",
+        "nearest_id": "BR00116991:P17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G01",
+        "nearest_id": "BR00116991:O13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G02",
+        "nearest_id": "BR00116991:M08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G03",
+        "nearest_id": "BR00116991:M09",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G05",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G06",
+        "nearest_id": "BR00116991:L20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G07",
+        "nearest_id": "BR00116991:B17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G08",
+        "nearest_id": "BR00116991:C17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G11",
+        "nearest_id": "BR00116991:E19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G12",
+        "nearest_id": "BR00116991:C11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G14",
+        "nearest_id": "BR00116991:G20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G15",
+        "nearest_id": "BR00116991:B17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G16",
+        "nearest_id": "BR00116991:F20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G19",
+        "nearest_id": "BR00116991:E18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G20",
+        "nearest_id": "BR00116991:B20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G22",
+        "nearest_id": "BR00116991:B19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G23",
+        "nearest_id": "BR00116991:P23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:G24",
+        "nearest_id": "BR00116991:O24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H01",
+        "nearest_id": "BR00116991:H01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H02",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H06",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H08",
+        "nearest_id": "BR00116991:F04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H09",
+        "nearest_id": "BR00116991:N05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H12",
+        "nearest_id": "BR00116991:F05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H14",
+        "nearest_id": "BR00116991:B11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H15",
+        "nearest_id": "BR00116991:H09",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H16",
+        "nearest_id": "BR00116991:H16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H20",
+        "nearest_id": "BR00116991:D20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H22",
+        "nearest_id": "BR00116991:B21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H23",
+        "nearest_id": "BR00116991:D20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:H24",
+        "nearest_id": "BR00116991:H24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I01",
+        "nearest_id": "BR00116991:O10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I03",
+        "nearest_id": "BR00116991:B17",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I04",
+        "nearest_id": "BR00116991:O14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I07",
+        "nearest_id": "BR00116991:I07",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I08",
+        "nearest_id": "BR00116991:G11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I11",
+        "nearest_id": "BR00116991:G20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I12",
+        "nearest_id": "BR00116991:G12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I13",
+        "nearest_id": "BR00116991:M13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I15",
+        "nearest_id": "BR00116991:D09",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I19",
+        "nearest_id": "BR00116991:I19",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I20",
+        "nearest_id": "BR00116991:A14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I23",
+        "nearest_id": "BR00116991:B18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:I24",
+        "nearest_id": "BR00116991:B23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J01",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J02",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J03",
+        "nearest_id": "BR00116991:J03",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J05",
+        "nearest_id": "BR00116991:J07",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J07",
+        "nearest_id": "BR00116991:H15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J08",
+        "nearest_id": "BR00116991:F08",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J10",
+        "nearest_id": "BR00116991:J10",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J11",
+        "nearest_id": "BR00116991:J15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J12",
+        "nearest_id": "BR00116991:E16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J13",
+        "nearest_id": "BR00116991:H15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J15",
+        "nearest_id": "BR00116991:J15",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J16",
+        "nearest_id": "BR00116991:J16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J18",
+        "nearest_id": "BR00116991:E16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J21",
+        "nearest_id": "BR00116991:J21",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:J24",
+        "nearest_id": "BR00116991:C23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K01",
+        "nearest_id": "BR00116991:K21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K02",
+        "nearest_id": "BR00116991:O10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K07",
+        "nearest_id": "BR00116991:E16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K08",
+        "nearest_id": "BR00116991:K08",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K09",
+        "nearest_id": "BR00116991:O14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K12",
+        "nearest_id": "BR00116991:K12",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K14",
+        "nearest_id": "BR00116991:K14",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K15",
+        "nearest_id": "BR00116991:G20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K17",
+        "nearest_id": "BR00116991:J21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K18",
+        "nearest_id": "BR00116991:K18",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K21",
+        "nearest_id": "BR00116991:K21",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K22",
+        "nearest_id": "BR00116991:G19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K23",
+        "nearest_id": "BR00116991:O21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:K24",
+        "nearest_id": "BR00116991:A18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L01",
+        "nearest_id": "BR00116991:L01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L03",
+        "nearest_id": "BR00116991:B04",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L04",
+        "nearest_id": "BR00116991:L04",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L07",
+        "nearest_id": "BR00116991:F05",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L10",
+        "nearest_id": "BR00116991:J15",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L11",
+        "nearest_id": "BR00116991:L11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L13",
+        "nearest_id": "BR00116991:B19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L14",
+        "nearest_id": "BR00116991:L14",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L16",
+        "nearest_id": "BR00116991:L16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L17",
+        "nearest_id": "BR00116991:B19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L19",
+        "nearest_id": "BR00116991:O21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L20",
+        "nearest_id": "BR00116991:L20",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L21",
+        "nearest_id": "BR00116991:L21",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L22",
+        "nearest_id": "BR00116991:O19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L23",
+        "nearest_id": "BR00116991:L23",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:L24",
+        "nearest_id": "BR00116991:L24",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M02",
+        "nearest_id": "BR00116991:P16",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M03",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M05",
+        "nearest_id": "BR00116991:O10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M06",
+        "nearest_id": "BR00116991:O10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M07",
+        "nearest_id": "BR00116991:D12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M08",
+        "nearest_id": "BR00116991:A18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M09",
+        "nearest_id": "BR00116991:M09",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M11",
+        "nearest_id": "BR00116991:M11",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M12",
+        "nearest_id": "BR00116991:A20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M13",
+        "nearest_id": "BR00116991:M21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M14",
+        "nearest_id": "BR00116991:B19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M15",
+        "nearest_id": "BR00116991:M15",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M19",
+        "nearest_id": "BR00116991:J21",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M21",
+        "nearest_id": "BR00116991:F23",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:M24",
+        "nearest_id": "BR00116991:A11",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N01",
+        "nearest_id": "BR00116991:N01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N02",
+        "nearest_id": "BR00116991:D02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N03",
+        "nearest_id": "BR00116991:N03",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N05",
+        "nearest_id": "BR00116991:D12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N10",
+        "nearest_id": "BR00116991:N13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N12",
+        "nearest_id": "BR00116991:N12",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N13",
+        "nearest_id": "BR00116991:N13",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N15",
+        "nearest_id": "BR00116991:N03",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N16",
+        "nearest_id": "BR00116991:B19",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N23",
+        "nearest_id": "BR00116991:P22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:N24",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O01",
+        "nearest_id": "BR00116991:J01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O02",
+        "nearest_id": "BR00116991:A01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O03",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O04",
+        "nearest_id": "BR00116991:O13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O05",
+        "nearest_id": "BR00116991:M02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O06",
+        "nearest_id": "BR00116991:I01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O08",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O09",
+        "nearest_id": "BR00116991:D13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O10",
+        "nearest_id": "BR00116991:O20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O11",
+        "nearest_id": "BR00116991:O13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O12",
+        "nearest_id": "BR00116991:O13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O13",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O14",
+        "nearest_id": "BR00116991:J02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O15",
+        "nearest_id": "BR00116991:P12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O16",
+        "nearest_id": "BR00116991:A20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O17",
+        "nearest_id": "BR00116991:P22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O19",
+        "nearest_id": "BR00116991:L14",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O20",
+        "nearest_id": "BR00116991:A18",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O21",
+        "nearest_id": "BR00116991:A22",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O22",
+        "nearest_id": "BR00116991:L01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O23",
+        "nearest_id": "BR00116991:C24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:O24",
+        "nearest_id": "BR00116991:F24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P01",
+        "nearest_id": "BR00116991:P01",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P02",
+        "nearest_id": "BR00116991:P02",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P03",
+        "nearest_id": "BR00116991:P02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P04",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P06",
+        "nearest_id": "BR00116991:P02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P07",
+        "nearest_id": "BR00116991:J10",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P08",
+        "nearest_id": "BR00116991:P02",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P09",
+        "nearest_id": "BR00116991:P01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P11",
+        "nearest_id": "BR00116991:P01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P12",
+        "nearest_id": "BR00116991:P13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P13",
+        "nearest_id": "BR00116991:P13",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P14",
+        "nearest_id": "BR00116991:L24",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P15",
+        "nearest_id": "BR00116991:O12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P16",
+        "nearest_id": "BR00116991:P16",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P17",
+        "nearest_id": "BR00116991:P13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P18",
+        "nearest_id": "BR00116991:N01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P19",
+        "nearest_id": "BR00116991:P13",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P20",
+        "nearest_id": "BR00116991:P20",
+        "hit": true,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P21",
+        "nearest_id": "BR00116991:I01",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P22",
+        "nearest_id": "BR00116991:P12",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P23",
+        "nearest_id": "BR00116991:P20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      },
+      {
+        "id": "BR00116992:P24",
+        "nearest_id": "BR00116991:P20",
+        "hit": false,
+        "random_candidate_hit_rate": 0.0038461538461538464
+      }
+    ]
+  },
+  "batch_classifier": {
+    "n_evaluated": 520,
+    "n_unevaluated": 0,
+    "accuracy": 0.925,
+    "majority_baseline_accuracy": 0.5,
+    "folds": [
+      {
+        "train_perturbations": [
+          "BRD-A00827783-001-24-6",
+          "BRD-A07207424-001-14-0",
+          "BRD-A08187463-001-12-9",
+          "BRD-A10188456-001-04-9",
+          "BRD-A10739734-003-09-8",
+          "BRD-A18763547-300-06-3",
+          "BRD-A18992208-003-02-7",
+          "BRD-A22032524-074-09-9",
+          "BRD-A22713669-001-04-3",
+          "BRD-A24122750-001-03-7",
+          "BRD-A25569250-001-03-3",
+          "BRD-A31564021-001-02-6",
+          "BRD-A36217750-001-16-3",
+          "BRD-A48180038-003-24-3",
+          "BRD-A51831848-001-01-7",
+          "BRD-A58048407-001-20-4",
+          "BRD-A63310107-001-04-8",
+          "BRD-A64173453-015-03-1",
+          "BRD-A65597028-003-08-1",
+          "BRD-A69651145-003-11-4",
+          "BRD-A72351335-001-04-5",
+          "BRD-A72483914-001-03-7",
+          "BRD-A74391928-051-03-9",
+          "BRD-A82396632-008-30-8",
+          "BRD-A83029242-001-06-1",
+          "BRD-A85242401-001-11-5",
+          "BRD-A86665761-001-01-1",
+          "BRD-A91008255-003-24-8",
+          "BRD-A91822151-001-05-0",
+          "BRD-A99888680-001-05-3",
+          "BRD-K00259736-001-16-4",
+          "BRD-K01824976-300-02-9",
+          "BRD-K01825660-322-01-9",
+          "BRD-K01825690-065-01-9",
+          "BRD-K01826724-003-07-9",
+          "BRD-K02554563-001-01-6",
+          "BRD-K03109492-001-02-2",
+          "BRD-K03601870-001-01-2",
+          "BRD-K04210847-001-21-9",
+          "BRD-K05878375-236-05-7",
+          "BRD-K06426971-001-02-7",
+          "BRD-K06890060-001-09-1",
+          "BRD-K07442505-001-03-6",
+          "BRD-K08953028-001-09-6",
+          "BRD-K09143580-001-01-0",
+          "BRD-K09338665-001-08-9",
+          "BRD-K09787262-001-02-7",
+          "BRD-K10843433-001-23-5",
+          "BRD-K11558771-001-13-9",
+          "BRD-K12102668-001-25-5",
+          "BRD-K13533483-001-16-2",
+          "BRD-K14681867-001-01-6",
+          "BRD-K15502390-001-20-9",
+          "BRD-K16444452-001-09-1",
+          "BRD-K16472653-001-01-6",
+          "BRD-K16730910-001-07-3",
+          "BRD-K16761703-001-03-8",
+          "BRD-K17849083-001-32-9",
+          "BRD-K18131774-001-18-4",
+          "BRD-K18895904-001-16-1",
+          "BRD-K19227686-001-18-6",
+          "BRD-K20093108-001-02-3",
+          "BRD-K20897876-001-11-8",
+          "BRD-K21528677-001-04-4",
+          "BRD-K22134346-001-22-3",
+          "BRD-K22149900-001-06-2",
+          "BRD-K22482860-001-20-6",
+          "BRD-K23913458-001-20-7",
+          "BRD-K24283677-001-01-9",
+          "BRD-K24616672-003-20-1",
+          "BRD-K25244359-066-02-6",
+          "BRD-K25311561-001-10-7",
+          "BRD-K26514105-001-01-7",
+          "BRD-K26521938-001-07-2",
+          "BRD-K27539181-001-08-5",
+          "BRD-K29151923-001-01-5",
+          "BRD-K29530284-001-06-2",
+          "BRD-K29791386-001-01-8",
+          "BRD-K30177383-001-01-0",
+          "BRD-K31170746-001-01-6",
+          "BRD-K32292990-001-03-6",
+          "BRD-K32730239-001-01-0",
+          "BRD-K34581968-001-05-3",
+          "BRD-K35498378-001-06-1",
+          "BRD-K36055864-001-20-0",
+          "BRD-K36461289-001-05-8",
+          "BRD-K36660044-001-24-2",
+          "BRD-K36927236-001-36-7",
+          "BRD-K37355418-236-01-6",
+          "BRD-K37385792-003-02-1",
+          "BRD-K37602296-001-01-6",
+          "BRD-K38272302-001-02-7",
+          "BRD-K38512030-001-01-7",
+          "BRD-K40109029-001-02-9",
+          "BRD-K42352790-001-05-3",
+          "BRD-K43330982-001-02-3",
+          "BRD-K43570081-001-02-4",
+          "BRD-K44227013-001-08-0",
+          "BRD-K44432556-001-05-5",
+          "BRD-K45293975-001-02-0",
+          "BRD-K45746021-003-01-9",
+          "BRD-K47049295-300-03-1",
+          "BRD-K47557313-001-02-7",
+          "BRD-K47738867-001-01-5",
+          "BRD-K47978074-001-03-2",
+          "BRD-K48722258-300-11-0",
+          "BRD-K48830578-001-01-9",
+          "BRD-K50055394-001-03-6",
+          "BRD-K50199947-001-03-4",
+          "BRD-K50495309-001-02-0",
+          "BRD-K50720187-051-03-1",
+          "BRD-K51265828-001-01-0",
+          "BRD-K51662849-001-05-4",
+          "BRD-K51899933-001-02-6",
+          "BRD-K52960356-001-13-0",
+          "BRD-K53061490-003-13-9",
+          "BRD-K55567017-001-12-3",
+          "BRD-K56740996-001-02-1",
+          "BRD-K57313110-001-06-8",
+          "BRD-K57708067-001-01-3",
+          "BRD-K59058747-001-19-1",
+          "BRD-K59325863-001-04-4",
+          "BRD-K59831625-001-03-9",
+          "BRD-K60150510-001-15-6",
+          "BRD-K60659193-001-01-0",
+          "BRD-K61250553-003-30-6",
+          "BRD-K61918008-001-07-1",
+          "BRD-K62949423-001-03-1",
+          "BRD-K64034691-001-01-9",
+          "BRD-K64054020-001-02-7",
+          "BRD-K67017579-001-28-1",
+          "BRD-K68143200-001-11-7",
+          "BRD-K68164687-001-01-6",
+          "BRD-K68567222-001-01-2",
+          "BRD-K69122748-001-10-1",
+          "BRD-K69877120-001-01-7",
+          "BRD-K70463136-001-01-5",
+          "BRD-K70586315-001-02-4",
+          "BRD-K70821460-300-02-4",
+          "BRD-K71106091-001-09-5",
+          "BRD-K72726508-001-02-1",
+          "BRD-K72815923-034-02-0",
+          "BRD-K74514084-003-09-2",
+          "BRD-K74913225-001-14-0",
+          "BRD-K75748943-300-01-3",
+          "BRD-K76037122-001-02-5",
+          "BRD-K76792669-001-08-1",
+          "BRD-K77060810-001-01-5",
+          "BRD-K77220725-003-01-5",
+          "BRD-K77627880-001-04-0",
+          "BRD-K78126613-001-27-7",
+          "BRD-K78692225-001-24-5",
+          "BRD-K80666802-003-01-0",
+          "BRD-K80970344-201-08-6",
+          "BRD-K81801188-001-02-8",
+          "BRD-K83896451-001-06-7",
+          "BRD-K84266862-001-03-2",
+          "BRD-K86930074-001-05-0",
+          "BRD-K87158025-003-08-7",
+          "BRD-K87691185-001-01-2",
+          "BRD-K87782578-001-01-4",
+          "BRD-K91188791-001-17-5",
+          "BRD-K91370081-001-25-1",
+          "BRD-K91456750-001-01-9",
+          "BRD-K91822704-003-07-2",
+          "BRD-K92049597-001-20-8",
+          "BRD-K93632104-001-17-2",
+          "BRD-K93788137-001-04-1",
+          "BRD-K94342292-001-01-3",
+          "BRD-K95785537-001-22-3",
+          "BRD-K97010173-001-04-1",
+          "BRD-K97181089-003-24-7",
+          "BRD-K98357249-001-02-9"
+        ],
+        "test_perturbations": [
+          "BRD-A01078468-001-14-8",
+          "BRD-A09722536-002-18-0",
+          "BRD-A15397381-001-02-5",
+          "BRD-A20697603-001-07-2",
+          "BRD-A23124853-001-01-4",
+          "BRD-A30815329-001-12-1",
+          "BRD-A43005764-003-01-5",
+          "BRD-A54139254-001-09-2",
+          "BRD-A63444178-001-01-5",
+          "BRD-A69636825-003-04-7",
+          "BRD-A72767275-003-01-6",
+          "BRD-A84687895-001-03-2",
+          "BRD-A89164055-001-03-3",
+          "BRD-A93477898-001-04-2",
+          "BRD-K01666412-001-02-0",
+          "BRD-K01825589-310-02-9",
+          "BRD-K02490038-236-03-8",
+          "BRD-K03155172-001-03-0",
+          "BRD-K05531427-001-01-7",
+          "BRD-K06674495-334-04-0",
+          "BRD-K08893438-001-06-4",
+          "BRD-K09295674-001-09-8",
+          "BRD-K10670311-001-17-1",
+          "BRD-K11796549-001-05-2",
+          "BRD-K14560436-001-01-4",
+          "BRD-K15819326-001-01-6",
+          "BRD-K16542329-001-16-8",
+          "BRD-K16810791-001-01-0",
+          "BRD-K18289362-001-02-2",
+          "BRD-K19975102-001-01-2",
+          "BRD-K20986415-001-02-6",
+          "BRD-K24282351-001-01-4",
+          "BRD-K25243230-001-01-2",
+          "BRD-K26439554-001-01-3",
+          "BRD-K26970495-001-02-7",
+          "BRD-K29322660-001-01-9",
+          "BRD-K29895144-001-01-0",
+          "BRD-K31476763-001-01-5",
+          "BRD-K32821942-001-22-1",
+          "BRD-K36016295-001-05-2",
+          "BRD-K36574127-001-01-3",
+          "BRD-K36740062-001-06-6",
+          "BRD-K37864785-001-01-0",
+          "BRD-K38775274-001-22-1",
+          "BRD-K43236057-001-07-1",
+          "BRD-K44067360-001-29-5",
+          "BRD-K44771174-066-01-0",
+          "BRD-K46625559-001-01-8",
+          "BRD-K47598052-001-14-1",
+          "BRD-K48278478-001-01-2",
+          "BRD-K49223707-001-01-0",
+          "BRD-K50398167-236-22-7",
+          "BRD-K50498985-001-03-3",
+          "BRD-K51485109-001-01-4",
+          "BRD-K52075715-001-06-7",
+          "BRD-K53234107-001-01-6",
+          "BRD-K56810756-003-07-7",
+          "BRD-K58049875-001-03-9",
+          "BRD-K59632282-052-03-1",
+          "BRD-K60476892-001-16-1",
+          "BRD-K61845293-300-01-9",
+          "BRD-K63430059-001-16-4",
+          "BRD-K66788707-001-14-3",
+          "BRD-K67637637-003-11-8",
+          "BRD-K67915505-001-01-2",
+          "BRD-K68982262-001-01-4",
+          "BRD-K70358946-001-17-3",
+          "BRD-K70778732-003-27-5",
+          "BRD-K72063794-003-01-0",
+          "BRD-K73276278-305-01-1",
+          "BRD-K75390981-300-04-9",
+          "BRD-K76674262-001-03-3",
+          "BRD-K77087341-001-02-4",
+          "BRD-K78122587-300-04-3",
+          "BRD-K80451230-051-02-6",
+          "BRD-K81405859-300-01-4",
+          "BRD-K82818427-001-04-8",
+          "BRD-K84783599-001-01-0",
+          "BRD-K87632963-001-03-0",
+          "BRD-K90497590-001-05-9",
+          "BRD-K91543828-001-02-0",
+          "BRD-K91825936-001-03-9",
+          "BRD-K93779381-001-01-9",
+          "BRD-K94863486-001-02-2",
+          "BRD-K97091514-001-11-4",
+          "BRD-K98763141-001-30-8",
+          "BRD-K99616396-316-05-3"
+        ]
+      },
+      {
+        "train_perturbations": [
+          "BRD-A01078468-001-14-8",
+          "BRD-A07207424-001-14-0",
+          "BRD-A09722536-002-18-0",
+          "BRD-A10188456-001-04-9",
+          "BRD-A15397381-001-02-5",
+          "BRD-A18763547-300-06-3",
+          "BRD-A20697603-001-07-2",
+          "BRD-A22032524-074-09-9",
+          "BRD-A23124853-001-01-4",
+          "BRD-A24122750-001-03-7",
+          "BRD-A30815329-001-12-1",
+          "BRD-A31564021-001-02-6",
+          "BRD-A43005764-003-01-5",
+          "BRD-A48180038-003-24-3",
+          "BRD-A54139254-001-09-2",
+          "BRD-A58048407-001-20-4",
+          "BRD-A63444178-001-01-5",
+          "BRD-A64173453-015-03-1",
+          "BRD-A69636825-003-04-7",
+          "BRD-A69651145-003-11-4",
+          "BRD-A72483914-001-03-7",
+          "BRD-A72767275-003-01-6",
+          "BRD-A82396632-008-30-8",
+          "BRD-A84687895-001-03-2",
+          "BRD-A85242401-001-11-5",
+          "BRD-A89164055-001-03-3",
+          "BRD-A91008255-003-24-8",
+          "BRD-A93477898-001-04-2",
+          "BRD-A99888680-001-05-3",
+          "BRD-K01666412-001-02-0",
+          "BRD-K01824976-300-02-9",
+          "BRD-K01825589-310-02-9",
+          "BRD-K01825690-065-01-9",
+          "BRD-K02490038-236-03-8",
+          "BRD-K02554563-001-01-6",
+          "BRD-K03155172-001-03-0",
+          "BRD-K03601870-001-01-2",
+          "BRD-K05531427-001-01-7",
+          "BRD-K05878375-236-05-7",
+          "BRD-K06674495-334-04-0",
+          "BRD-K06890060-001-09-1",
+          "BRD-K08893438-001-06-4",
+          "BRD-K08953028-001-09-6",
+          "BRD-K09295674-001-09-8",
+          "BRD-K09338665-001-08-9",
+          "BRD-K10670311-001-17-1",
+          "BRD-K10843433-001-23-5",
+          "BRD-K11796549-001-05-2",
+          "BRD-K12102668-001-25-5",
+          "BRD-K14560436-001-01-4",
+          "BRD-K14681867-001-01-6",
+          "BRD-K15819326-001-01-6",
+          "BRD-K16444452-001-09-1",
+          "BRD-K16542329-001-16-8",
+          "BRD-K16730910-001-07-3",
+          "BRD-K16810791-001-01-0",
+          "BRD-K17849083-001-32-9",
+          "BRD-K18289362-001-02-2",
+          "BRD-K18895904-001-16-1",
+          "BRD-K19975102-001-01-2",
+          "BRD-K20093108-001-02-3",
+          "BRD-K20986415-001-02-6",
+          "BRD-K21528677-001-04-4",
+          "BRD-K22482860-001-20-6",
+          "BRD-K24282351-001-01-4",
+          "BRD-K24283677-001-01-9",
+          "BRD-K25243230-001-01-2",
+          "BRD-K25244359-066-02-6",
+          "BRD-K26439554-001-01-3",
+          "BRD-K26514105-001-01-7",
+          "BRD-K26970495-001-02-7",
+          "BRD-K27539181-001-08-5",
+          "BRD-K29322660-001-01-9",
+          "BRD-K29530284-001-06-2",
+          "BRD-K29895144-001-01-0",
+          "BRD-K30177383-001-01-0",
+          "BRD-K31476763-001-01-5",
+          "BRD-K32292990-001-03-6",
+          "BRD-K32821942-001-22-1",
+          "BRD-K34581968-001-05-3",
+          "BRD-K36016295-001-05-2",
+          "BRD-K36055864-001-20-0",
+          "BRD-K36574127-001-01-3",
+          "BRD-K36660044-001-24-2",
+          "BRD-K36740062-001-06-6",
+          "BRD-K37355418-236-01-6",
+          "BRD-K37864785-001-01-0",
+          "BRD-K38272302-001-02-7",
+          "BRD-K38775274-001-22-1",
+          "BRD-K40109029-001-02-9",
+          "BRD-K43236057-001-07-1",
+          "BRD-K43330982-001-02-3",
+          "BRD-K44067360-001-29-5",
+          "BRD-K44227013-001-08-0",
+          "BRD-K44771174-066-01-0",
+          "BRD-K45293975-001-02-0",
+          "BRD-K46625559-001-01-8",
+          "BRD-K47049295-300-03-1",
+          "BRD-K47598052-001-14-1",
+          "BRD-K47738867-001-01-5",
+          "BRD-K48278478-001-01-2",
+          "BRD-K48722258-300-11-0",
+          "BRD-K49223707-001-01-0",
+          "BRD-K50055394-001-03-6",
+          "BRD-K50398167-236-22-7",
+          "BRD-K50495309-001-02-0",
+          "BRD-K50498985-001-03-3",
+          "BRD-K51265828-001-01-0",
+          "BRD-K51485109-001-01-4",
+          "BRD-K51662849-001-05-4",
+          "BRD-K52075715-001-06-7",
+          "BRD-K52960356-001-13-0",
+          "BRD-K53234107-001-01-6",
+          "BRD-K55567017-001-12-3",
+          "BRD-K56810756-003-07-7",
+          "BRD-K57313110-001-06-8",
+          "BRD-K58049875-001-03-9",
+          "BRD-K59325863-001-04-4",
+          "BRD-K59632282-052-03-1",
+          "BRD-K59831625-001-03-9",
+          "BRD-K60476892-001-16-1",
+          "BRD-K60659193-001-01-0",
+          "BRD-K61845293-300-01-9",
+          "BRD-K61918008-001-07-1",
+          "BRD-K63430059-001-16-4",
+          "BRD-K64034691-001-01-9",
+          "BRD-K66788707-001-14-3",
+          "BRD-K67017579-001-28-1",
+          "BRD-K67637637-003-11-8",
+          "BRD-K67915505-001-01-2",
+          "BRD-K68143200-001-11-7",
+          "BRD-K68164687-001-01-6",
+          "BRD-K68982262-001-01-4",
+          "BRD-K69122748-001-10-1",
+          "BRD-K70358946-001-17-3",
+          "BRD-K70463136-001-01-5",
+          "BRD-K70778732-003-27-5",
+          "BRD-K70821460-300-02-4",
+          "BRD-K72063794-003-01-0",
+          "BRD-K72726508-001-02-1",
+          "BRD-K73276278-305-01-1",
+          "BRD-K74514084-003-09-2",
+          "BRD-K75390981-300-04-9",
+          "BRD-K75748943-300-01-3",
+          "BRD-K76674262-001-03-3",
+          "BRD-K76792669-001-08-1",
+          "BRD-K77087341-001-02-4",
+          "BRD-K77220725-003-01-5",
+          "BRD-K78122587-300-04-3",
+          "BRD-K78126613-001-27-7",
+          "BRD-K80451230-051-02-6",
+          "BRD-K80970344-201-08-6",
+          "BRD-K81405859-300-01-4",
+          "BRD-K82818427-001-04-8",
+          "BRD-K83896451-001-06-7",
+          "BRD-K84783599-001-01-0",
+          "BRD-K86930074-001-05-0",
+          "BRD-K87632963-001-03-0",
+          "BRD-K87691185-001-01-2",
+          "BRD-K90497590-001-05-9",
+          "BRD-K91188791-001-17-5",
+          "BRD-K91456750-001-01-9",
+          "BRD-K91543828-001-02-0",
+          "BRD-K91825936-001-03-9",
+          "BRD-K92049597-001-20-8",
+          "BRD-K93779381-001-01-9",
+          "BRD-K93788137-001-04-1",
+          "BRD-K94863486-001-02-2",
+          "BRD-K95785537-001-22-3",
+          "BRD-K97091514-001-11-4",
+          "BRD-K97181089-003-24-7",
+          "BRD-K98763141-001-30-8",
+          "BRD-K99616396-316-05-3"
+        ],
+        "test_perturbations": [
+          "BRD-A00827783-001-24-6",
+          "BRD-A08187463-001-12-9",
+          "BRD-A10739734-003-09-8",
+          "BRD-A18992208-003-02-7",
+          "BRD-A22713669-001-04-3",
+          "BRD-A25569250-001-03-3",
+          "BRD-A36217750-001-16-3",
+          "BRD-A51831848-001-01-7",
+          "BRD-A63310107-001-04-8",
+          "BRD-A65597028-003-08-1",
+          "BRD-A72351335-001-04-5",
+          "BRD-A74391928-051-03-9",
+          "BRD-A83029242-001-06-1",
+          "BRD-A86665761-001-01-1",
+          "BRD-A91822151-001-05-0",
+          "BRD-K00259736-001-16-4",
+          "BRD-K01825660-322-01-9",
+          "BRD-K01826724-003-07-9",
+          "BRD-K03109492-001-02-2",
+          "BRD-K04210847-001-21-9",
+          "BRD-K06426971-001-02-7",
+          "BRD-K07442505-001-03-6",
+          "BRD-K09143580-001-01-0",
+          "BRD-K09787262-001-02-7",
+          "BRD-K11558771-001-13-9",
+          "BRD-K13533483-001-16-2",
+          "BRD-K15502390-001-20-9",
+          "BRD-K16472653-001-01-6",
+          "BRD-K16761703-001-03-8",
+          "BRD-K18131774-001-18-4",
+          "BRD-K19227686-001-18-6",
+          "BRD-K20897876-001-11-8",
+          "BRD-K22134346-001-22-3",
+          "BRD-K22149900-001-06-2",
+          "BRD-K23913458-001-20-7",
+          "BRD-K24616672-003-20-1",
+          "BRD-K25311561-001-10-7",
+          "BRD-K26521938-001-07-2",
+          "BRD-K29151923-001-01-5",
+          "BRD-K29791386-001-01-8",
+          "BRD-K31170746-001-01-6",
+          "BRD-K32730239-001-01-0",
+          "BRD-K35498378-001-06-1",
+          "BRD-K36461289-001-05-8",
+          "BRD-K36927236-001-36-7",
+          "BRD-K37385792-003-02-1",
+          "BRD-K37602296-001-01-6",
+          "BRD-K38512030-001-01-7",
+          "BRD-K42352790-001-05-3",
+          "BRD-K43570081-001-02-4",
+          "BRD-K44432556-001-05-5",
+          "BRD-K45746021-003-01-9",
+          "BRD-K47557313-001-02-7",
+          "BRD-K47978074-001-03-2",
+          "BRD-K48830578-001-01-9",
+          "BRD-K50199947-001-03-4",
+          "BRD-K50720187-051-03-1",
+          "BRD-K51899933-001-02-6",
+          "BRD-K53061490-003-13-9",
+          "BRD-K56740996-001-02-1",
+          "BRD-K57708067-001-01-3",
+          "BRD-K59058747-001-19-1",
+          "BRD-K60150510-001-15-6",
+          "BRD-K61250553-003-30-6",
+          "BRD-K62949423-001-03-1",
+          "BRD-K64054020-001-02-7",
+          "BRD-K68567222-001-01-2",
+          "BRD-K69877120-001-01-7",
+          "BRD-K70586315-001-02-4",
+          "BRD-K71106091-001-09-5",
+          "BRD-K72815923-034-02-0",
+          "BRD-K74913225-001-14-0",
+          "BRD-K76037122-001-02-5",
+          "BRD-K77060810-001-01-5",
+          "BRD-K77627880-001-04-0",
+          "BRD-K78692225-001-24-5",
+          "BRD-K80666802-003-01-0",
+          "BRD-K81801188-001-02-8",
+          "BRD-K84266862-001-03-2",
+          "BRD-K87158025-003-08-7",
+          "BRD-K87782578-001-01-4",
+          "BRD-K91370081-001-25-1",
+          "BRD-K91822704-003-07-2",
+          "BRD-K93632104-001-17-2",
+          "BRD-K94342292-001-01-3",
+          "BRD-K97010173-001-04-1",
+          "BRD-K98357249-001-02-9"
+        ]
+      },
+      {
+        "train_perturbations": [
+          "BRD-A00827783-001-24-6",
+          "BRD-A01078468-001-14-8",
+          "BRD-A08187463-001-12-9",
+          "BRD-A09722536-002-18-0",
+          "BRD-A10739734-003-09-8",
+          "BRD-A15397381-001-02-5",
+          "BRD-A18992208-003-02-7",
+          "BRD-A20697603-001-07-2",
+          "BRD-A22713669-001-04-3",
+          "BRD-A23124853-001-01-4",
+          "BRD-A25569250-001-03-3",
+          "BRD-A30815329-001-12-1",
+          "BRD-A36217750-001-16-3",
+          "BRD-A43005764-003-01-5",
+          "BRD-A51831848-001-01-7",
+          "BRD-A54139254-001-09-2",
+          "BRD-A63310107-001-04-8",
+          "BRD-A63444178-001-01-5",
+          "BRD-A65597028-003-08-1",
+          "BRD-A69636825-003-04-7",
+          "BRD-A72351335-001-04-5",
+          "BRD-A72767275-003-01-6",
+          "BRD-A74391928-051-03-9",
+          "BRD-A83029242-001-06-1",
+          "BRD-A84687895-001-03-2",
+          "BRD-A86665761-001-01-1",
+          "BRD-A89164055-001-03-3",
+          "BRD-A91822151-001-05-0",
+          "BRD-A93477898-001-04-2",
+          "BRD-K00259736-001-16-4",
+          "BRD-K01666412-001-02-0",
+          "BRD-K01825589-310-02-9",
+          "BRD-K01825660-322-01-9",
+          "BRD-K01826724-003-07-9",
+          "BRD-K02490038-236-03-8",
+          "BRD-K03109492-001-02-2",
+          "BRD-K03155172-001-03-0",
+          "BRD-K04210847-001-21-9",
+          "BRD-K05531427-001-01-7",
+          "BRD-K06426971-001-02-7",
+          "BRD-K06674495-334-04-0",
+          "BRD-K07442505-001-03-6",
+          "BRD-K08893438-001-06-4",
+          "BRD-K09143580-001-01-0",
+          "BRD-K09295674-001-09-8",
+          "BRD-K09787262-001-02-7",
+          "BRD-K10670311-001-17-1",
+          "BRD-K11558771-001-13-9",
+          "BRD-K11796549-001-05-2",
+          "BRD-K13533483-001-16-2",
+          "BRD-K14560436-001-01-4",
+          "BRD-K15502390-001-20-9",
+          "BRD-K15819326-001-01-6",
+          "BRD-K16472653-001-01-6",
+          "BRD-K16542329-001-16-8",
+          "BRD-K16761703-001-03-8",
+          "BRD-K16810791-001-01-0",
+          "BRD-K18131774-001-18-4",
+          "BRD-K18289362-001-02-2",
+          "BRD-K19227686-001-18-6",
+          "BRD-K19975102-001-01-2",
+          "BRD-K20897876-001-11-8",
+          "BRD-K20986415-001-02-6",
+          "BRD-K22134346-001-22-3",
+          "BRD-K22149900-001-06-2",
+          "BRD-K23913458-001-20-7",
+          "BRD-K24282351-001-01-4",
+          "BRD-K24616672-003-20-1",
+          "BRD-K25243230-001-01-2",
+          "BRD-K25311561-001-10-7",
+          "BRD-K26439554-001-01-3",
+          "BRD-K26521938-001-07-2",
+          "BRD-K26970495-001-02-7",
+          "BRD-K29151923-001-01-5",
+          "BRD-K29322660-001-01-9",
+          "BRD-K29791386-001-01-8",
+          "BRD-K29895144-001-01-0",
+          "BRD-K31170746-001-01-6",
+          "BRD-K31476763-001-01-5",
+          "BRD-K32730239-001-01-0",
+          "BRD-K32821942-001-22-1",
+          "BRD-K35498378-001-06-1",
+          "BRD-K36016295-001-05-2",
+          "BRD-K36461289-001-05-8",
+          "BRD-K36574127-001-01-3",
+          "BRD-K36740062-001-06-6",
+          "BRD-K36927236-001-36-7",
+          "BRD-K37385792-003-02-1",
+          "BRD-K37602296-001-01-6",
+          "BRD-K37864785-001-01-0",
+          "BRD-K38512030-001-01-7",
+          "BRD-K38775274-001-22-1",
+          "BRD-K42352790-001-05-3",
+          "BRD-K43236057-001-07-1",
+          "BRD-K43570081-001-02-4",
+          "BRD-K44067360-001-29-5",
+          "BRD-K44432556-001-05-5",
+          "BRD-K44771174-066-01-0",
+          "BRD-K45746021-003-01-9",
+          "BRD-K46625559-001-01-8",
+          "BRD-K47557313-001-02-7",
+          "BRD-K47598052-001-14-1",
+          "BRD-K47978074-001-03-2",
+          "BRD-K48278478-001-01-2",
+          "BRD-K48830578-001-01-9",
+          "BRD-K49223707-001-01-0",
+          "BRD-K50199947-001-03-4",
+          "BRD-K50398167-236-22-7",
+          "BRD-K50498985-001-03-3",
+          "BRD-K50720187-051-03-1",
+          "BRD-K51485109-001-01-4",
+          "BRD-K51899933-001-02-6",
+          "BRD-K52075715-001-06-7",
+          "BRD-K53061490-003-13-9",
+          "BRD-K53234107-001-01-6",
+          "BRD-K56740996-001-02-1",
+          "BRD-K56810756-003-07-7",
+          "BRD-K57708067-001-01-3",
+          "BRD-K58049875-001-03-9",
+          "BRD-K59058747-001-19-1",
+          "BRD-K59632282-052-03-1",
+          "BRD-K60150510-001-15-6",
+          "BRD-K60476892-001-16-1",
+          "BRD-K61250553-003-30-6",
+          "BRD-K61845293-300-01-9",
+          "BRD-K62949423-001-03-1",
+          "BRD-K63430059-001-16-4",
+          "BRD-K64054020-001-02-7",
+          "BRD-K66788707-001-14-3",
+          "BRD-K67637637-003-11-8",
+          "BRD-K67915505-001-01-2",
+          "BRD-K68567222-001-01-2",
+          "BRD-K68982262-001-01-4",
+          "BRD-K69877120-001-01-7",
+          "BRD-K70358946-001-17-3",
+          "BRD-K70586315-001-02-4",
+          "BRD-K70778732-003-27-5",
+          "BRD-K71106091-001-09-5",
+          "BRD-K72063794-003-01-0",
+          "BRD-K72815923-034-02-0",
+          "BRD-K73276278-305-01-1",
+          "BRD-K74913225-001-14-0",
+          "BRD-K75390981-300-04-9",
+          "BRD-K76037122-001-02-5",
+          "BRD-K76674262-001-03-3",
+          "BRD-K77060810-001-01-5",
+          "BRD-K77087341-001-02-4",
+          "BRD-K77627880-001-04-0",
+          "BRD-K78122587-300-04-3",
+          "BRD-K78692225-001-24-5",
+          "BRD-K80451230-051-02-6",
+          "BRD-K80666802-003-01-0",
+          "BRD-K81405859-300-01-4",
+          "BRD-K81801188-001-02-8",
+          "BRD-K82818427-001-04-8",
+          "BRD-K84266862-001-03-2",
+          "BRD-K84783599-001-01-0",
+          "BRD-K87158025-003-08-7",
+          "BRD-K87632963-001-03-0",
+          "BRD-K87782578-001-01-4",
+          "BRD-K90497590-001-05-9",
+          "BRD-K91370081-001-25-1",
+          "BRD-K91543828-001-02-0",
+          "BRD-K91822704-003-07-2",
+          "BRD-K91825936-001-03-9",
+          "BRD-K93632104-001-17-2",
+          "BRD-K93779381-001-01-9",
+          "BRD-K94342292-001-01-3",
+          "BRD-K94863486-001-02-2",
+          "BRD-K97010173-001-04-1",
+          "BRD-K97091514-001-11-4",
+          "BRD-K98357249-001-02-9",
+          "BRD-K98763141-001-30-8",
+          "BRD-K99616396-316-05-3"
+        ],
+        "test_perturbations": [
+          "BRD-A07207424-001-14-0",
+          "BRD-A10188456-001-04-9",
+          "BRD-A18763547-300-06-3",
+          "BRD-A22032524-074-09-9",
+          "BRD-A24122750-001-03-7",
+          "BRD-A31564021-001-02-6",
+          "BRD-A48180038-003-24-3",
+          "BRD-A58048407-001-20-4",
+          "BRD-A64173453-015-03-1",
+          "BRD-A69651145-003-11-4",
+          "BRD-A72483914-001-03-7",
+          "BRD-A82396632-008-30-8",
+          "BRD-A85242401-001-11-5",
+          "BRD-A91008255-003-24-8",
+          "BRD-A99888680-001-05-3",
+          "BRD-K01824976-300-02-9",
+          "BRD-K01825690-065-01-9",
+          "BRD-K02554563-001-01-6",
+          "BRD-K03601870-001-01-2",
+          "BRD-K05878375-236-05-7",
+          "BRD-K06890060-001-09-1",
+          "BRD-K08953028-001-09-6",
+          "BRD-K09338665-001-08-9",
+          "BRD-K10843433-001-23-5",
+          "BRD-K12102668-001-25-5",
+          "BRD-K14681867-001-01-6",
+          "BRD-K16444452-001-09-1",
+          "BRD-K16730910-001-07-3",
+          "BRD-K17849083-001-32-9",
+          "BRD-K18895904-001-16-1",
+          "BRD-K20093108-001-02-3",
+          "BRD-K21528677-001-04-4",
+          "BRD-K22482860-001-20-6",
+          "BRD-K24283677-001-01-9",
+          "BRD-K25244359-066-02-6",
+          "BRD-K26514105-001-01-7",
+          "BRD-K27539181-001-08-5",
+          "BRD-K29530284-001-06-2",
+          "BRD-K30177383-001-01-0",
+          "BRD-K32292990-001-03-6",
+          "BRD-K34581968-001-05-3",
+          "BRD-K36055864-001-20-0",
+          "BRD-K36660044-001-24-2",
+          "BRD-K37355418-236-01-6",
+          "BRD-K38272302-001-02-7",
+          "BRD-K40109029-001-02-9",
+          "BRD-K43330982-001-02-3",
+          "BRD-K44227013-001-08-0",
+          "BRD-K45293975-001-02-0",
+          "BRD-K47049295-300-03-1",
+          "BRD-K47738867-001-01-5",
+          "BRD-K48722258-300-11-0",
+          "BRD-K50055394-001-03-6",
+          "BRD-K50495309-001-02-0",
+          "BRD-K51265828-001-01-0",
+          "BRD-K51662849-001-05-4",
+          "BRD-K52960356-001-13-0",
+          "BRD-K55567017-001-12-3",
+          "BRD-K57313110-001-06-8",
+          "BRD-K59325863-001-04-4",
+          "BRD-K59831625-001-03-9",
+          "BRD-K60659193-001-01-0",
+          "BRD-K61918008-001-07-1",
+          "BRD-K64034691-001-01-9",
+          "BRD-K67017579-001-28-1",
+          "BRD-K68143200-001-11-7",
+          "BRD-K68164687-001-01-6",
+          "BRD-K69122748-001-10-1",
+          "BRD-K70463136-001-01-5",
+          "BRD-K70821460-300-02-4",
+          "BRD-K72726508-001-02-1",
+          "BRD-K74514084-003-09-2",
+          "BRD-K75748943-300-01-3",
+          "BRD-K76792669-001-08-1",
+          "BRD-K77220725-003-01-5",
+          "BRD-K78126613-001-27-7",
+          "BRD-K80970344-201-08-6",
+          "BRD-K83896451-001-06-7",
+          "BRD-K86930074-001-05-0",
+          "BRD-K87691185-001-01-2",
+          "BRD-K91188791-001-17-5",
+          "BRD-K91456750-001-01-9",
+          "BRD-K92049597-001-20-8",
+          "BRD-K93788137-001-04-1",
+          "BRD-K95785537-001-22-3",
+          "BRD-K97181089-003-24-7"
+        ]
+      }
+    ]
+  },
+  "warnings": [],
+  "interpretation": "Cosine retrieval; no global data normalization is learned. StandardScaler is fitted inside each classifier training fold. High batch predictability suggests a shortcut, not proof of artifact.",
+  "study_note": "JUMP pilot processed CellProfiler profiles from two plates. The batch field is plate identity, not distinct experimental batches. First 128 shared alphabetical features; controls and nonfinite wells excluded. Published preprocessing may use controls across the source batch. Held-out-compound plate classification is a diagnostic, not proof of biological artifacts.",
+  "source_files": [
+    "BR00116991.csv.gz",
+    "BR00116992.csv.gz"
+  ]
+}

@@ -1,0 +1,4647 @@
+{
+  "passed": false,
+  "n_rows": 6448,
+  "content_sha256": "c058c6ba3ed8e493cb7d79919b164e174b25ba1c34069a9314f2095468713429",
+  "issues": [
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1016/j.tibtech.2024.09.008",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1021/acsnano.1c04496",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1021/jacsau.5c00947",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s41467-025-60051-6",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s41551-021-00801-1",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s41551-024-01201-x",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s41564-025-02061-0",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s41564-026-02408-1",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s41589-026-02269-z",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s42003-023-05254-7",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s42256-025-01119-2",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "paper",
+      "group": "10.1038/s42256-026-01237-5",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ALYIKAAWLKATIPEDRIKNIRLLKKKTKKQFMK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "APAHRSSTFPKWVTKTERGRQPLRS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ARKFKWGKLFSAGKKLLKKAKKLSKNK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "AWEIVRVEIRRCLYYFYKFTALFRRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "AWTIVRVEILRNFYFINRLTGYLRN",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "CELHFRQLPAVKARLLKLRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "CELRFHQLPAVKARLLKLRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "CHELFRQLPAVKARLLKLRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "CHLEFRQLPAVKARLLKLRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "CRLLFRQLPAVKERLLKLRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "CVLLFSQLPAVKARGTKHRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "EEGAPPQQSARRDRMPCRNFFWKTFSSCK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "EIGDEENSAKFPIGRRDFDMLRCMLGRVYRPCWQV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "EIKINTIKLSIKLKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "EKITINGIKLSIKLKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ELKFKARKKKKLTRAQLKEREARRRLRHLEWLQSPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ERPVNLTMRRKLRKHNCLQRRCMPLHSRVPFP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FAGKMLRKLVKIVFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FALRFPRIVRIRF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FALRMKIKEVKKENGDKKIVPKKKKPLKLGPIKKKDLKKLVLYLKNGA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FFKGMLRTLKWIF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FFVCLFMHVGR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FGALLGDIVKSFF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FGGFTGARKSARKLANQ",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FGIFALSAALVKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FGLILLRSRAIF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FIAKKLSLRWFRLNIRTLPKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FIGINVAVGLKLIGK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FIIPRLKP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FIKKLWRSKLAKKLRAKGRELLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FIYAKLSLRWFRLNIRTLPKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FKALRALR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FKALRALRL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLFLKTWNVGIILL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLGAIGNVLKSIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLGALWNVAKSVF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLGLRVINLLRIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLGSLWRKAGTVF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLGVKLPKMLRFIKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLIHIVRRRLILF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLKKIWRSKLVKRL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLKLRWSRFARVLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLLLLFLSHLIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLPLIGRVLSGIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLPLLLLSLNPKIIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLPLLWRVASGVF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLPTTAQPTKKSTLKKRVCRLPRPETQKGRRRRARLRFMK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLPTTAQPTKKSTLKKRVCRLPRPETQKGRRRRARLRFMKQFYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLVNDIWKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FLWNMVRRIIRLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FPIPRNSTVNIPLFRRFGRQRKIGGRGRIISPYRTPVLRRHRYSIFR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FQLRGKPKAKYLVRLKGNKKGASMLKILATTRPTKQSFPSLP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FRFPNRPFVPSRCNHRFPFQPFYWPHRYLTYRYFPRRRLQR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FRLAAVLHFHIH",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FRLAHALL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FRSLKQLIQSQPHVSLKRRLELAQALANTLLQLHTAGWLHKNLRS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FRVLAKALR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FRVLAKALRM",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FTRGKLMSSLHLKRYYGRILHYLKAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "FVCLFMHVGR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GAGYLARLLIRRSLRLLRRL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GFNLIHRLSLMKTSAIKKIRNPKGPLILRLGAAPVTQPTRRVFPRGLP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GFVVYLKRKTLIRLLFTNKKTTIEKLRCVRPSRPPRGF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHILGRLASVVSKKLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHKLIHLIGKAKLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLKIHLIGKAKLNL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLKIHLIGKASLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLLIGLIGKLTLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLLIHLIGKATLAL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLLIKLIGKATLKLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLLIRLIGKLTLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLLISLIGKLTLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLSIHLIGKAKLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLSIHLIGKLTLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GHLSLIHLIGKLTLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GIILRPLLHSRGSRRIRLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GIIWATWKTRWYSMKKTTMKIIPFNRLTIG",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GKASSAKQRLKCASLQKFGERAFKAWAVARLSQRFPKA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GKWLISSLVAKHL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GLGALLNVIKSGL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GLIGARILKRINRF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GLLKRIKTLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GLRLLHRRQKRIIGGKNSLRGGWPWQVSLRLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GLSKGCFGLKLDRIGSMSGLGC",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GRGLQLAKKWVWLKIRGQLENLKRWRRRLGK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GSMLLAALLLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GSSFLSPEHQRVQQRKESKKPPAKLQPR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GVVWMNWKGSWYSMRKMSMKIRPFFPQQ",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "GVVWVSFRGADYSLRAVRMKIRPLVTQ",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HKIKINTIKLKIKLKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HKITINIKLKIKLKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HKVGSLSGGWKMKLALARAMLKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HLFIIIGQLASIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HPPLRLKKSFEILVRKPMSSKPKPPPRKYFKS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HRVNNAFLFSIRNKNRLQLGVQLLPKKLVVHIRGKQPAVF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HSDGTFTSELSRLREGARLQRLLQGLV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HSQGTFTSDYSKYLDSRRAQDFVQWLMNTKRNRNNIA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HVALKAGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HVALKPGKLKFIIPSPKRPVKLLSG",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HVALKPGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HVRIRVIKKKKVIMKKRKKLTLTRP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HWIAINAIKLRISLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HWIAINGIKLRISLKIW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HWIGINAIKLRISLKIW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HWIRINAIKLRISLKIW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HWIRINTIKLRIALKIW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HWITINTIKLSISLKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "HWKLIVRWKVQH",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IAKKGNLRLLIKIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IASLHARSIARLLKIWRNVHQGLGLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IASLHARSIARLLKLWRNVHQGLGLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IASLHARSIARLLKRWINVHQGLGLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IASLHARSIARLLKRWLNVHQGLGLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IAWLHARSIARLLKRWINVHQGLGLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IERIRLRIRLAKNW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IFGALAKIRRLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IFLHIKVLNILYF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IFLHLKILKIIRLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IFLHLKTLKIIHLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IFLLLINLLGLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IFSLHLAGISSIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IGFKIFYRLLMLKM",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IGLLSRGLIKRINL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IGWISNRVILKLLRFAKNMK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IHLILLGLGAFLLVFKAL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IHSVGGSLRRPIRVQQLQLNLRRKPQMTRGQFRRPVSKHQPTHRVPS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IHVTVLILLKGVL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IIAITRFSRRKIPWQQNFVNNHNPKGRLRNQHKVSLQKSTAVMLPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IIFHTKKKLSVCANPKQTWVKYIVRLLSKKVK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IILGSLALAIKKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IKAIALKINTLLSGLLAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IKLIELGHKLKRIF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IKLRLWRWKYLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILFAGLLKGLLKSL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILGAILNVLKSLG",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILGGKLIKKSLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILGTILGLLKGL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILINRVLA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILKNKLSK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILLTTAIAIKLGL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILRFIPNKLGGVLALIF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILSKWLARFMVRYFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILTLFIIFQLKISKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ILVLLRIIKLRKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "INSLIIKLI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IPLFRRFGRQRKIGGRGRIISPYRTPVLRRHRYSIFR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IQKLHARSIARLHKLWRPVHQFLELK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IQKLHARSIARLLKRWRPVHQELNLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IQKLHARSIARLLKRWRPVHQLLELK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IQTPLNIARRRFQSWLRRRIRGSSRSQISKLLARLRRLKWA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRIQLKKFIKIIR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRKIGLKLAWALSLKNKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRKLSHHMIKLLGLAKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRKRILWLARALSLNNKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRKRLLWLARALSLNNKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRKSHPLI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRKSHPLIKII",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRRAINKYPPINLKIKCNRLNSIDPKQPPRPFRSFVPGPLKATLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRTLPKVKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IRYYIIAVRRFLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ISKLLARLRRLKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ISLFIRPLALGVRL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "ISLMKRPPGFSPFR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IVGNVFGFKALRALRL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IVLSLDVPIGLLQILLEQARARAAREQATTNARILARVGHC",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWARNLVRYVQWLKKKKVIW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWARNLVRYVWGLKKKKVIW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWARNLVRYVWGLKKKKVW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWLLASQLIAVKARLIKHRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWLLASQLIAVKARLLKHRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWLLFAQLIAVKARLTKIRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWLLFAQLWAVKARITKLRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "IWLLFSQLAAVKARALKIRIKWNRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KERQIKKQTALVELVKHKPKATKEQLKAVM",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KFILNFKIPISFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KFKLIVHYRICK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KFKLLFRLRRLIELLNSPR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KFLARLVFRKFILL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KFLRQIVIAWELAARLKHHRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KFSVFSKILRSIAKVF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KFSVFSKILRSIAKVFKGVGKVRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KHKEMLPKSFIKLLRSKVSSFLRPYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KHPWIKERLVRELELVGRYGLRNKRELWKLETLARYFRHRARS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIGKKLSIPPFKLKIRNLFKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIGKKLSLPPFKLKIRQLMKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIGKKLSRWLFRLNIRGLPKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIIRGLKLAWALSLKNKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIKIGLKLAKALSLNNKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIKIGLKLATKLSLNNKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIKRLLKLATKLSLNNKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIKWFKTMKSLAKFLAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIKWLKAMKSIAKFIAKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KINKILSLPPFKLKIRGLPKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KINKKLSIPPFKLKIRFLGKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KINKKLSIPPFKLKIRGLPQVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KINYRANIWALKMLGVKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIRSRVQKLAALLKQNNRKVRFRAP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KITDVFVKRKGAKFLRFAPVSSHQKVTFFIH",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KIYKKLSTPPFTLNIRTLPKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKIVPKKKKPLKLGPIKKKDLKKLVLYLKNGA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKKKLKKFFKKLIQLINQLFDDLDDFKKKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKKKLKKILKKLFQFINQLDNQLQDIKQNK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKKKVKKVVKKVFSFVDSVDSDVSDVKKKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKKPPSPIKPKIPLSAPRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKKPPSPIKPKIPLSAPRKNTNSVKYRLKFRFG",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKLIKVSPKALLKLGKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKPPNPIKPKVPLSAPRKSPNTVKYRLKFR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKQIRLYLLKYYGKKSSSKSVRKIVISK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKSTLKKRVCRLPRPETQKGRRRRARLRFMKQFYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKWRELSRLSRVLQIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKWTKIYSPL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKWTKIYSPLSL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KKWVIKSVVFFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLGGILALLLSIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLHGLLTRRSLKNFWKRNLYLR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLILKKIKMLKIEF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLKKLRKWIYRIV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLLKIGLKSFARVLKKVL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLLRKVLKETKKWVIKSVVFFKKIRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLSGISKVLRAIAKFFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLWNSKLARKIRTKGLKYVKNFAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KLYQRILWRLISEL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KMIGINKIKLSISLKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KMKIGLKLATALSLKNKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KMYKMSTMRRIFDLAKHRTKRSAFFPTGVKVCPQESMKQIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KNKRFIRNLRSNLYQKIIKSTKSLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KNLFRKVQGLKLKKKLIVRPVGIGPFANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KNLIRPVQGLKFKKKIKIPVGIGPFANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KNLSRIVQGLKKFKKKINIPVGIGPFANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KNLSRIVQGLKKFKKQIRIPVGIGPFANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KNLVRKVQGLKKFKKPIKIPVGIGPNANFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KQKYLIKRSRAKMQNHKLFKLTKR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KQLFLKAQKIVHKLFSLSKRCHKQPLISLPRQR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRFIRNLRSNLYQKIIKSTKSLLDLREKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRFWTLIKMLRF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRGRASPLWQRRGFLSKLKARAKRNGAFHLPR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRHVRISR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRIRVAVV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRKGYLRLVPEERIWQKGLWWLRRLETDSDKLQK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRKIGLKLAWALSLKLKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRKRGLKLATALSLNNKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRKRLKRIVKRAWTFMDSVENDLQEIKRKR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRLKGFAKKLWNSKLARKIRTKGLKYVKNFAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRLRAKMLNSKFIKLIKR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRPLTIFRKRKEPWKRLRWVTLDDKKFGRLLDKAKS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KRRRASPLWKRRRFLSMLKARAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTLKIIRLLCK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTLKIIRLLF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTLKIIRLLFCK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTLKIQRLLFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTLRKWLKMFKKRQLELYLPKFSI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTNKIIRLLFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTSKIIRLLFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KTWLKIIRLLKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KVGAFLVDKVWKTLI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KVKRILKLATALKLNNKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWGKLFSAGKKLLKKAKKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWILSRLHRIIKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWKARIQFKAAH",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWKKLIKGFVINKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWLGKLGVILSHL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWLKAMKSIAKFIAKKQMKKHL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWLKIIRLRLF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWLKRIIRLLF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWLRKIIRLLF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWTKIYLPLLLPL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KWTLKIIRLLKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KYRLKFRF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "KYRRGVSPWLKKELVRLHNNLRSKVAGGK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LAGKSQLQMQKIFKKLPGFKKIHVLGFRPKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LAKNHWIHFRVLAKALW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LALFQQIIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LARLLIRRILKNLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LAWGLGIGRLAMLKIGLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFGGILRSIKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFHPIEGWTRVDLTELHRIKEVYDRKIDFLKKLLKKFPLRAMRKINRLF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFIGLTNLLGLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFIHVGRGVYYGSF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFLKAQKIVHKLFSLSKRCHKQPLISLPRQRTSTYWLTRI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFMHVGRGL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFPIILASKILLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFQQIIKY",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFRLVRLLRFLRIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFSLALATKTLLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LFVWSVKITAILL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LGLHLLKKMVIAGKLKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LGRLLIRRSLRIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LHIGLIKTYLGSFAL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LHLKILKIIRLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LHTINFIIKSLLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LIGKALNRIWKLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LIKMLRFYVVLRRF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LIKTYGLRNKRELWKAESILRKYRRVGRMLLASK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LILSLLINSTLALL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LIMAKMLRLVRYYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LIRIPLHRVQPGRRILNLLRGWR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LIRIPLHRVQPGRRILNLLRGWREPAELPKLGAPSPGD",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LIVCFFRQLKFHF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKINNISLIRKIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKKFLRTTR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKKIRNRFITFLAKRKVQASKFFKS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKKKKVIV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKKKKVIVI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKKKKVIVIP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKLKSILGKLGVIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKRKRGLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKRKRGLKLA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKRYHKLLLKRRQWTTKIGRIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKVLFKKTHRILRRLFNLCKRCHRQPRFRLPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LKVLFKKTHRILRRLFNLCKRCHRQPRFRLPKERSLSYWWNRI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLALFQQIIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLALFQQIIKY",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLFKLIRHRL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLHFSIWRSTVLRK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLHMLLARNKIRTLKNNMFSKFKKLKSL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLINSIKRLLLGSIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLIPLVRSGKIWEIAAKLRKLGW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLIRRALRTLKLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLLRLLRLIKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLRFSLVL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLRFSLVLI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLRFSLVLIQSWL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLRLKSIF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LLRQQRRY",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LPGFKGIR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LPLAKIAAKLMLGKKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LPLALLSISPKLILGL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LPPSFAMLLRKYLKNAKLIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LQHAAALRQKRIGWLRLTKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRAKMLNSKFIKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRALPRYRLLRDLPRLLRALDARPFAEATSWGRLGARQRRQSR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRIKNHWIHFRVLAKALW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRMEKIKKIMERTVEILRRW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRMMLRRINATISKLNLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRNKKELWLARARLKWIVRRARALLSMT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRRFKLLHKLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRRIYTIW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRRRIKKYQRIIFGLPRFKLRGVRKDLRRASPLWF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRRSSSYRRQLWKKLFKNVR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LRRVGITNLRTVAKINWK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LSRWYVRLIRKRLW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LTKWLGKLGVIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LTLFIIFQLKISKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LVQPRGSRNGPGPWQGGRRKFRRQRPRLSHKGPNPF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LVRLTRWRRVSGLGRVAAAFRRIS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LWLARARLKWIT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LWMVRWRIAVVAAKIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LWRRRRVFAAAVL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LWWLLASLANLAL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LYCRIYSLVRARGRRLTFRKNISK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "LYSINFTIKALLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "MFPRSFIKLLRSKVSRFLRPYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "MKQLFLKAQKIVHKLFSLSKRCHKQPLISLPRQRTSTYWLTRI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "MKSITRMKRIFYRIGNKGIYKAISELDILLSWIKKLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "MLPKSFIKLLRSKVSSFLRPYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "NIRKSHPLIKII",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "NSLIIKLI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "NWKGSWYSMRKMSMKIRPFFPQQ",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PHAMAWLCIRFH",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PKLAIKLGKAGLKSLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PKWKKIKRIMKKIGL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PLWKRRRFLSMLKARAKR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PNTVKYRLKFRF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PQRMSRNFVRYVQGLKKKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PQRMSRNFVRYVQGLKKKKVIVIPVGIGP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PQRMSRNFVRYVQGLKKKKVIVIPVGIGPHANLKQIRLIEKQAP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PYPYPFRPLPPIPFPRFPWFRRNFPIPIP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "PYPYPFRPLPPIPFPRFPWFRRNFPIPIPESAPTTPLPSEK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "QISKLLARLRRLKWAKIRTQIAGVRKYFTRSYWRELIAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "QLQWLSGRANALLANGVKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "QPRRVKRFKKFFKKLKNSVKKRAKKF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RACLHARSIARLHKRWRPVHQGLGLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RAVIFTTKRGKKVCTHPRKKWVQKYISLLKTPKQL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RAYICRKKFLSLRKASIKLQSLVRMK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RFGSFLKKVWKSKLAKKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RFKLKLVFSDLRFKGLKLKAQIKW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RGLAKLLKIGLKSFARVLKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RHRIVRTYIAKFGLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RHRIVRTYIAKFGLKLNEFFQENENAWYFIRNIRKRVWEVKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RIARNLVRWVLGLKKKKVW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RIARWLVRYVQWLKKKKVW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RIKPPLELRYRLAKRIAGSLSKLF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKELHARQIARLHKLWRPVHQELWLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKELHARQIARLHKLWRPVHQWLELK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKFKWGKLFSTAKKLYKKGKKLSK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKFKWGKLFSTAKKLYKKGKKLSKNKNFKKALK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKFKWGSFKKILSAGKKLFKKAKKLSK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKFKWGSFKKILSAGKKLFKKAKKLSKNKNFKKALK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKFNWGKLFKSAKKLYKTGKKLSKNKNVRKALKFGK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKILGDLKFLESLKTY",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKLVYVLPGWPQDLLHMLLARNKIRTLKNNMFSKFKKLKSL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKRDFIKKAMVGLKLKSHGGWVRLRWSSF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKRGLKLATALSLNNKFV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKRRRFISMLKARAKRR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKSHPLIKI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKSHPLIKII",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RKTRPPLEVRFKLAHRLASAVALLHAANWLHKSLRS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLAALKLRITRW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLARNLVRYVQALKKLKVW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLARNLVRYVQALKWKKVW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLARNLVRYVQLLKWKKVK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLATLQLWTINKITKQLMIPLNKPGHK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLFPKRLRWALW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLGGFLVTHVWK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLHISQKRIRV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLIEAIVGRQKYKKSFKYEIKWMHYKPKTNTWLTKEFLLEQGFHKLVQK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLKNHWIAFRVLAKALW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLKNWAIHFRVLAKALW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLLVRATGPR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLRAKMRNSKLFKLTKR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RLSLMKTSAIKKIRNPKGPLILRLGAAPVTQPTRRVFPR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RMARNLVRYVQGLKKKKVI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RNLARYVWGLKLKKVIKIKVGIGRWANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RNLARYVWGLKLKKVIKIVGIGRWANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RNLVRWVAGLKLKKKVIKIKVGIGRWANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RNLVRWVIGLKLKKKVIKIKVGIGRWANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RNLVRYVQGLKKKKVIVIPVGIGPHANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RNLWRYVAGLKLKKVIKIKVGIGRWANIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RNPLRKVRYSLRLPAKAAQRLKRIANFQPGSLRRIGLSALK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RPARNLVRYVAGLKKLKVW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RPARNLVRYVQGLKLKKVWK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RPFVPSRCNHRFPFQPFYWPHRYLTYRYFPRRRLQR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RPLLLLAYFSRLCAKGDIPPPLRALPRYRLLRDLPRLLR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQEYPTKRLRAKMLNSKFIKLIKR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQKNHGIHFRVLAKALR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQKNLKIPFRVLAKALRP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQKNLPIKFRVLAKALRP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQKNLPIPFRVLAKALK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQKNPLIKFRVLAKALRP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQKNPLIKLRVLAKALR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RQKWKKTFQYEVKWRGWLPKFNSQVSRET",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRALFASRV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRALFASRVR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRASPLWKRRRFLSMLKARAKRTGYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRKWIKFRLSIKKQLP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRLSTWKLKLRMF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRPRIHFRFPNRPFVPSRCNHRFPFQPFYWPHRYLTYRYFPRRRLQR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRRLRYITWL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRRLWKKFFKDIR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRRRLRRILRRLFQFINQLDNQLQDIRQNR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRVKRFKKFFKKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRVKRFKKFFMKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRVKRFKKFFMKLKKSVKKRVMKFFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRVKRFKKFFRKLKKSVKKRAKEFFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RRYNSPRVLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RTKKQLAMVMRYGVNGVGKILKKINKAIVSKKNK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RTKKQLAMVMRYGVNGVGKILKKINKAIVSKKNKDIVTVANAVFVK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RTRQYAKRQVKWIKKMLIP",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RTTQSYVRALTMDSKKRIGWRFIRIDTSCVCTLTIKRGR",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RVVALVLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RVWKTLIETSALVI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RWRDRFLF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RWSEREFKIRMLGLKKK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "RYRLKLKIAKRRLARW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SANSNPAMAPRERKAGCKNFFWKTFTFC",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SFKKILSAGKKLFKKAKKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SFLFLKTWNVGIIL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SFRGADYSLRAVRMKIRPLVTQ",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SFRNGVGTGNKKTSFQRAKS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SKEMFPRSFIKLLRSKVSRFLRPYK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SKKQIRLYLLKYYGKKLFKKRPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SLLGLFFYLRL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SLLSLIRKLIT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SLRRSSCFGGRMDRIGAQSGLGCNSFRY",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SPKMVQGSGCFGRKMDRISSSSGRGCKVLRRH",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SSNKLSFRARAYGFRGPGPQL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "SYSMEHFRWGKPVGKKRRPVKVYPNGAEDESAEAFPLEF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "TFLKKYLYEIARRHPYFYAPELLFFAKRYKAAFT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "THFLPRFK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "TIKLFLSFKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "TKMYKLDVVSKPPLINGLYTNRTVIKATAVRHSKKHF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "TWFIKVSLIRKKLLENNEKINW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "TWKTRWYSMKKTTMKIIPFNRLTIG",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VFLILNTTKALKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VFLTLNSIKVLKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VKELIKKWEKQVSQKKKQKNGKKHQKKKVLKVRKSQRSRQKKTT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VKFVKSFINSIRRAINKYPPINLKIKCNRLNSI",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VKFVKSFINSIRRAINKYPPINLKIKCNRLNSIDPKQPPRPFRSFV",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VKKYGLRNKRELWKSLSVLRRFRG",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VNSFKIGGFIKKLWRSKLAKKLRAK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "VRISGRGFCVKMFYIKPIKYKGPIKKGEKLGTLLPLQKVY",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WFHFNSKILLLTGL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WIAKKLSLRWFRLNIRTLPKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WIYAKLSLRWFRLNIRTLPKVKFPK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WLGDKALAKLLKFLKGIK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WLGSALKIGAKLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WLKNHAIHFRVLAKALW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WMTIHALKLSLSFKL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WPLPKIFRLTKGGKLNKKIF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WRKRMLLTLKSNKYKSSLVHMILGLSLQICLTK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WRLRIASLASLRRF",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WRRIRWALKLVRLW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WSQLRPLL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WYKHVASPRYHTVGRAAGLLMGLRRSPYLW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "WYKPAAGHSSYSVGRAAGLLSGLRRSPYA",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YKGANKKGLSKGCFGLKLDRIGSMSGLGC",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YLARLVIRRTLRALKKLK",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YLGRLVIRRALKVLRLLKS",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YLLLGRWRKKHLTFRILNL",
+      "splits": [
+        "test",
+        "train"
+      ]
+    },
+    {
+      "type": "cross_split_group",
+      "column": "sequence",
+      "group": "YWRAKYVLGRVLGGMKRMRAANGW",
+      "splits": [
+        "test",
+        "train"
+      ]
+    }
+  ],
+  "interpretation": "Checks declared metadata and supplied grouping IDs. It cannot validate license rights, establish homology clusters or detect unknown source overlap. Content hash covers canonical JSON rows, not original file bytes.",
+  "study_note": "A deliberately unsafe deterministic row split applied to REAL data, to test that the checker rejects cross-split sequences and papers. It is not an actual upstream published training split. Missing MICs also fail the declared contract. Failure is expected and useful; no upstream defect is alleged.",
+  "source_files": [
+    "assays.tsv"
+  ]
+}

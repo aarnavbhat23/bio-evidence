@@ -1,0 +1,5 @@
+# Input schema and interpretation
+
+`cases`: unique `id`, `claim`, `evidence`, `source_id`, `scope` and gold label (`supported`, `contradicted`, `insufficient`). `predictions`: exactly matching IDs, `label` (also accepts `abstain`) and string `quote`. Gold must be adjudicated by a human for a real study. The bundled cases and predictions were hand-authored by Codex as toy fixtures; they are not an inference run.
+
+The evaluator scores raw labels and quote-guarded labels separately. A confident prediction with an empty or non-occurring quote becomes abstain in guarded scoring. An occurring quote does not prove entailment; the gold label assesses that. Abstentions count as errors for accuracy/F1 and reduce coverage. Macro-F1 always averages all three substantive labels, including absent classes as zero; class counts are provided. Per-scope small slices should not be compared as significant results. `run_ollama.py` uses supplied source text only; it never fetches papers or adds fabricated sources.

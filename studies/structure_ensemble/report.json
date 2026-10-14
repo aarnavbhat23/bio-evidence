@@ -1,0 +1,3608 @@
+{
+  "n_models": 38,
+  "n_residues": 20,
+  "pairs": [
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-2",
+      "ca_rmsd_angstrom": 0.7842644355883348
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-3",
+      "ca_rmsd_angstrom": 1.007576828218882
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-4",
+      "ca_rmsd_angstrom": 0.5518027168336131
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-5",
+      "ca_rmsd_angstrom": 0.806634539859829
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-6",
+      "ca_rmsd_angstrom": 1.0606679080831463
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-7",
+      "ca_rmsd_angstrom": 0.8738370495257126
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-8",
+      "ca_rmsd_angstrom": 0.6260642357093014
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 1.0057656084130724
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.8144080397594115
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.8762829829039276
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 1.3538589809724808
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.9327800117279634
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.8760093369366855
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.9935731296984927
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.40626577600256647
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.31801941424563585
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 1.1838904703150206
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 1.2347707306875515
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.8911446493020079
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.5553652625509903
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.7363939157731789
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.7856739902365009
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 1.1019256813775844
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.6722888064543051
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 1.1605638984163253
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.9821395499396192
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 1.2280884907680927
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.7926964055149018
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.86854739426957
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.938666819128021
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.8356570233380082
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.6165037507501774
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.9733542789770299
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 1.0322398136624449
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.555566549152517
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 1.1517521641016832
+    },
+    {
+      "left": "1L2Y-model-1",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.8558534475986345
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-3",
+      "ca_rmsd_angstrom": 0.5299413125028988
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-4",
+      "ca_rmsd_angstrom": 0.765276369134051
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-5",
+      "ca_rmsd_angstrom": 0.32910625837430196
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-6",
+      "ca_rmsd_angstrom": 0.5062112003292477
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-7",
+      "ca_rmsd_angstrom": 0.53701426219846
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-8",
+      "ca_rmsd_angstrom": 0.6973819518922716
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 0.38444931537784083
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.3212186128048062
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.4802650327992996
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.7681778080071032
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.34293839223840633
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.5675173963530418
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.5404103505701282
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.8633989901916966
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.6359295540095419
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.6231434771645143
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.7687945585105181
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.46474362570264793
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.6312227524021461
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.5978323704566313
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.5831369206425236
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.5008860835998729
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.7887866985666139
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.5894715543298669
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.5397020397989479
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.6881226973695387
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.2783403329508155
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.29526897125878954
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.3732407351284155
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.3142912778721761
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.7117305898993619
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.4691626326678964
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5859633054564138
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.5574584569187447
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.689547802924007
+    },
+    {
+      "left": "1L2Y-model-2",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5329974880309505
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-4",
+      "ca_rmsd_angstrom": 0.9721740897856516
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-5",
+      "ca_rmsd_angstrom": 0.49177460310312715
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-6",
+      "ca_rmsd_angstrom": 0.4101165794648188
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-7",
+      "ca_rmsd_angstrom": 0.5093597549706229
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-8",
+      "ca_rmsd_angstrom": 0.7209790151095106
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 0.5287064563636781
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.6263799261615639
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.492466123232626
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.5632666049068853
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.5829700335833373
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.7760960398593736
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.6537500314361498
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.9627935769964869
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.9200520114341879
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.7028075003085766
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.8361094137678018
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.25485579079928466
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.7643570792666822
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.6271700495629798
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.3790233326978745
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.5414999709881445
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.8480846340061318
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.38269841361343815
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.37746338208657076
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.7218292146837851
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5942431450660167
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.5734582550933451
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.540531698254777
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6030870181529864
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.7400541211645179
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5594031464561585
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.48098107199614737
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7166585043646361
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.5223641117469335
+    },
+    {
+      "left": "1L2Y-model-3",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.7348339731163572
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-5",
+      "ca_rmsd_angstrom": 0.7722778168807566
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-6",
+      "ca_rmsd_angstrom": 0.9353017281796234
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-7",
+      "ca_rmsd_angstrom": 0.7334445915932805
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-8",
+      "ca_rmsd_angstrom": 0.7610268060956698
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 0.87127397343314
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.8119224244560668
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.8821438789544839
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 1.1948467713274462
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.7843673450533128
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.5846567781038698
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.7763567508827828
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.7050025363050069
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.6706089867211694
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.9953489683600364
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 1.1105643741496498
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.8455190766011053
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.7983845547100257
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.5340674621682074
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.8803162423329872
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 1.1338978630852559
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.5162188390365363
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 1.1049382866243922
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 1.0029810177899394
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.966440428623424
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.6962233537730088
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.9031401366222638
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.7843857214043006
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.8317020422123104
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.6691656533527016
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.886553408104479
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.7997367487783508
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7757524033882638
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.9352126716117429
+    },
+    {
+      "left": "1L2Y-model-4",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6697825714374626
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-6",
+      "ca_rmsd_angstrom": 0.5111553400143076
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-7",
+      "ca_rmsd_angstrom": 0.4341146698462955
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-8",
+      "ca_rmsd_angstrom": 0.7022283460823129
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 0.36865421492076506
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.40815097974610914
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.47602339747117706
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.7209904434067416
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.4374787037278324
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.5068208993687358
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.40422393203890233
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.8682258853658759
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.6556700420330334
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.5035985385740492
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.619750485914113
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.43207301998413894
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.6407875763189916
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.4860820559194058
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.5584565926947679
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.5631049536484986
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.7227046955877997
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.585072349340825
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.47351834409804233
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.6019681581722489
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.3295697936906506
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.3000294727387117
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.3821505549431918
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.33428417361720536
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.719126318857485
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.3225141268836649
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.4858120999816587
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.654565375793691
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.5970490017202498
+    },
+    {
+      "left": "1L2Y-model-5",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.4853664799329316
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-7",
+      "ca_rmsd_angstrom": 0.4172661663392601
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-8",
+      "ca_rmsd_angstrom": 0.6985960108493376
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 0.4498070024408515
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.6663489926305999
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.6971705109431245
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.42754241378155805
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.4459610262128564
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.7289487795065722
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.6389806299546236
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 1.1140051727043212
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.9635490816151534
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.6650390231743938
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.8330876309635067
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.42631506613412573
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.9462769337179338
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.5648182072558987
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.6135681631988608
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.6912157784579701
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.9328113735328354
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.38875098638196176
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.413815358559234
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.6379572459510395
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5596536501657693
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6226965550839063
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.5402530001010661
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.5664154836113805
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.694946890207545
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5803925680352772
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.3459472823833648
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.8783275304348962
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.38638823597721755
+    },
+    {
+      "left": "1L2Y-model-6",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6550258333805937
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-8",
+      "ca_rmsd_angstrom": 0.6285503179698623
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 0.5217762028173666
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.6469634233218918
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.7163448708898096
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.6619928083013368
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.5611842353314034
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.5757313976400498
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.5856623491310115
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.9551207746018859
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.7921127024168271
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.6862939337690324
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.8801959237005944
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.46670883879176506
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.8366745953176454
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.4233100085904085
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.5945937736311335
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.826270431012305
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.7823425533730816
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.6156037786278845
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.536013740785494
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.6909621611899497
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5016786601961617
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6129835300267771
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.5723957445087677
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6020895987971824
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.5693693125560186
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.6131289862178407
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.36673841913312843
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.8201507361219831
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.3889695666023453
+    },
+    {
+      "left": "1L2Y-model-7",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6011803126765256
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-9",
+      "ca_rmsd_angstrom": 0.8527675346672443
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.8058759953030433
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.8211593876398627
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 1.0460304530355045
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.7957476887719441
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.9222428309286591
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.9388949725746636
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.6531203933848055
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.6280140672936068
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 1.0874054299723286
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 1.1753227381364855
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.6688242705630808
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.6701977976220448
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.5684043460470007
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.5861484089580132
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.9317210714013492
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.8107136589106172
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.7885440420055051
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.5967478464237532
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 1.113832968092471
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.7151855725591103
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.811909138721256
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.898264341587755
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6801403170755175
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.22451348166872753
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.8616891663789689
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.7844424867286153
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.6046004540160355
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.8910239260914656
+    },
+    {
+      "left": "1L2Y-model-8",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.8864935822030288
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-10",
+      "ca_rmsd_angstrom": 0.48573045215238253
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.5128419225709189
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.5878501227928989
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.2956663559707238
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.5667545444848839
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.3689663053611574
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 1.055602716286151
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.9012120423400074
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.44114175702025327
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.5713860048266967
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.5102639605458054
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.8514475123430896
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.6166502743637178
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.7015525508763135
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.5423591806628764
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.844155085580063
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.5319687874780905
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.5878786100760189
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.4515137648325999
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.29488966658711097
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.4151916770540217
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.2812251794651619
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.4112044125919562
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.8669300432504843
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.3054433144091899
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.4424756391679481
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7958467532738198
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.49090124115446054
+    },
+    {
+      "left": "1L2Y-model-9",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5245138128913905
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-11",
+      "ca_rmsd_angstrom": 0.4930906914090009
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.8664712810260065
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.4960008937737057
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.5981461789911025
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.5728331395881668
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.8727620897171218
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.6852494503269178
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.6535311989031309
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.7989455494363393
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.5778268086377577
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.5739948498952628
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.6777373935159745
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.68301543643301
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.4963339387473017
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.8589155203046968
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.6895033753333814
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.6126665175996503
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.7432831668303386
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.3577526881097258
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.30306159567202884
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.47983228434635344
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.3877582829629123
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.8331914361613026
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.47619031637942033
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.7229748471425257
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.6013636760025893
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.8022265834237693
+    },
+    {
+      "left": "1L2Y-model-10",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6150766634101332
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-12",
+      "ca_rmsd_angstrom": 0.8799298113517479
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.6043705793900495
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.6648382014364407
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.5543427337529497
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.805044454112223
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.7992590649538754
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.6574211153233839
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.6807515000375914
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.4303147394535192
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.5428060524663362
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.6494282533579175
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.49233150146225263
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.4488333096554326
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.6703866806294102
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.5954885622903985
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.5747090224844112
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.7360519253749311
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.46745954016694236
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.45562130499541936
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.45506167972113165
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.5005953172727996
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.8512623333369136
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.451125058942566
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.6813800658073906
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.5386542205393507
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.7812238743191523
+    },
+    {
+      "left": "1L2Y-model-11",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.637781525223192
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-13",
+      "ca_rmsd_angstrom": 0.6294822428476089
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.908522437333879
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.7307576994756528
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 1.3869330305219576
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 1.2645886215569397
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.6540872687639719
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.8403067280182255
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.6601447059302293
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 1.211610142721696
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.8565639352969531
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.8637546778139796
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.8136154171917064
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 1.1728153375086534
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.5694667998804915
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.6793559821746996
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.5667174207507293
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.8071923785339634
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.8024536365307026
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.6663935915110668
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.8128594365246533
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 1.046034575379185
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.6999459115002401
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5068139896933882
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 1.1575928420246822
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.422347602223796
+    },
+    {
+      "left": "1L2Y-model-12",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.8434465531478966
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-14",
+      "ca_rmsd_angstrom": 0.5981650714473419
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.469605789200805
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 1.0310277382173934
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.8485700295603811
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.6010340057270814
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.7389182082383567
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.5734393804380509
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.8526669514947187
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.6248982059681195
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.7153578550075039
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.6155920788301691
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.8463225774625764
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.6473571450034387
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.6408959268092026
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.549363222302507
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.37054506707387497
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.47941277678880073
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.34988057975706294
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.4053133026447315
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.8174880991499178
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.44759152446584594
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.49929744620149463
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7632319126478593
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.5748700390518295
+    },
+    {
+      "left": "1L2Y-model-13",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5231274638242339
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-15",
+      "ca_rmsd_angstrom": 0.37535030954498216
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 0.9581238905602216
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.8067915114008657
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.5344388763464113
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.6928744562322666
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.6599004942744635
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.8463780085861317
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.4833835295368202
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.8356045126489264
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.8723968195351448
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.6253656206882467
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.837110850266281
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.8164743521811464
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.5627494889987207
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.48745197705963267
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6329377408075737
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.4544261181887086
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6431526520691156
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.8416024261700409
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5673071657800822
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5664255371506032
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.8665908519141295
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.6684277690885208
+    },
+    {
+      "left": "1L2Y-model-14",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.37071864225237255
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-16",
+      "ca_rmsd_angstrom": 1.0286482005959747
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.9197156650009572
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 0.3370219122741334
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.461843658551405
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.6124327086980449
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.8682943707481794
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.5552315295828736
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.7981826806876096
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.6882375713152777
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.7253611614791176
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.6979492794973565
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.7107682154044368
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.34321324865907643
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.421057288031909
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.5235361753765365
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.34118110902604853
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.5082549983194612
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.9211188682362613
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.32056210737871577
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.4755595163993662
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.8674605758712026
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.5704673232953223
+    },
+    {
+      "left": "1L2Y-model-15",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.450478379262061
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-17",
+      "ca_rmsd_angstrom": 0.524733799984554
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 1.2072178715058663
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 1.2385160592944136
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.8709115613419894
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.4544870612952627
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.789534536060788
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.7586924442604153
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 1.043284587119918
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.6481558631730432
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 1.1192306300659152
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.9667627585837648
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 1.2688819125108313
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.8449185128374008
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.9331736544579377
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 1.0015160323099912
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.8829477541219453
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.6754909785528058
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.9936201903329889
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 1.0725904539031967
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.44474347677979104
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 1.1980089327921162
+    },
+    {
+      "left": "1L2Y-model-16",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.9977241842092403
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-18",
+      "ca_rmsd_angstrom": 1.0716027183434742
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 1.1243286721212902
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.8065196717766215
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.4918013991295456
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.7197575725725839
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.727162826247016
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.9607863958046836
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.738045529857731
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 1.0517387525483712
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.8662618927291975
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 1.1579271366668382
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.6852919277677525
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.7099202054719984
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.8504728412529013
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.7024909053267085
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.6339266836899
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.8692420063693853
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.9734820409979623
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.5098434356659128
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 1.087324401552947
+    },
+    {
+      "left": "1L2Y-model-17",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.7858102772179784
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-19",
+      "ca_rmsd_angstrom": 0.37398875440797963
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.6646951005059173
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 1.0014449542990276
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.714189332878571
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.9079828934148991
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.690345201714718
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.9238839468275557
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.6601925471803632
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.7306537884046179
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.26272702503146184
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5671907103902786
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.5685935735259542
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.44064433861386937
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6173437004299482
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 1.0631031911264655
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.43707342843910924
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5402719877750368
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 1.0119275062168311
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.6167800761677948
+    },
+    {
+      "left": "1L2Y-model-18",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5961750939698389
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-20",
+      "ca_rmsd_angstrom": 0.77282915368184
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 1.0487794557036447
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.814384956129168
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.9715416413597008
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.7628396426444338
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.9279362444290623
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.7810285694302944
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.8416261801797332
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.488308212686686
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.6958690506621382
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6883002197188609
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.5598780087106829
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.7154996281018781
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 1.1735539546291969
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.4856771651062862
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.7059039906494429
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 1.06358918971908
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.7884233141606984
+    },
+    {
+      "left": "1L2Y-model-19",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6555989286585442
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-21",
+      "ca_rmsd_angstrom": 0.680986258493362
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.4938869055283812
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.31910705277256657
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.5962363771894853
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.6953527262093366
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.4150005778753217
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.3870313606393675
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.7090262009340635
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5225938254602561
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.533062120946579
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.46053654605168587
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.5768695361797652
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.650813443088607
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5470802971945333
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.4357906309662306
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.6456201632722814
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.5365915493390149
+    },
+    {
+      "left": "1L2Y-model-20",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5982444825164962
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-22",
+      "ca_rmsd_angstrom": 0.7392926406913751
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.5841240626786393
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.7145137608688937
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.7072259712974353
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.9037383449860815
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.72897454805304
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 1.1042616884587968
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.6486258379500026
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6331696370702873
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.8064710829169067
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6343096541818151
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.731331888828909
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.7801176787668996
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.9599264540852886
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.2817921365826098
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 1.0815063993525895
+    },
+    {
+      "left": "1L2Y-model-21",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.8617643842948153
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-23",
+      "ca_rmsd_angstrom": 0.604304087394181
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.8840708163868536
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.5080085034221657
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.6885879094950017
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.586251336888956
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.7215575175065002
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5289477991510732
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6932770124500851
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.5945360567408039
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6098511217732507
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.48844576844846205
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5941586215667355
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.4243913905394858
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7448715718074443
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.6000979995894616
+    },
+    {
+      "left": "1L2Y-model-22",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5186070656704074
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-24",
+      "ca_rmsd_angstrom": 0.6943001484060058
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 0.7027456734095862
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.610756861142473
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.4890507684485215
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.9456507206727596
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.6596710262736979
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6416167384278278
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.6579139998832305
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6742877840460957
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.6133693892552254
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.6933854849537178
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.6563718074645001
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.5567495427538376
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.737596493652022
+    },
+    {
+      "left": "1L2Y-model-23",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.7444930949484313
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-25",
+      "ca_rmsd_angstrom": 1.0341284949355776
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 0.5379777756894437
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.5514919232429215
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.7913241265559859
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5575318071160423
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.44056036850795116
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.5960399557926261
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.46417001303102173
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 1.0071720098393782
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5411741245320943
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.8038460095112459
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.6799025520074207
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.8670728255213516
+    },
+    {
+      "left": "1L2Y-model-24",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.848036603151973
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-26",
+      "ca_rmsd_angstrom": 1.0030129544780835
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.9226954646970809
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.9293678532113551
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.724510430785711
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.8873888416835554
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.7263049261875387
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.8475380639005515
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.7508205811474805
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.8023560033291305
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.7521255494952032
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7163910473481744
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.9067400951151122
+    },
+    {
+      "left": "1L2Y-model-25",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6494769059475477
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-27",
+      "ca_rmsd_angstrom": 0.3215280919155118
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.7170849765105606
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.6200633903229178
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6117054108679452
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.6217369838972158
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.593604032555056
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.8062476368643171
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5790455685859465
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5330749440205864
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.8525641664902558
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.593304291014722
+    },
+    {
+      "left": "1L2Y-model-26",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.8027407736036268
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-28",
+      "ca_rmsd_angstrom": 0.8085839745930705
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.5899287759625834
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.5346179218601805
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.6574979807048779
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.48673965751885595
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.6467215693749869
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5718457109839559
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5739955354024687
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7262783777086973
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.6583333006729614
+    },
+    {
+      "left": "1L2Y-model-27",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.7594004677291135
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-29",
+      "ca_rmsd_angstrom": 0.6271277193311889
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.6969422876640082
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.4517995295183062
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.6981716577647661
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 1.0836616179155398
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.5060834116756977
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.47513590985473636
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 1.085518702407137
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.5283974498485166
+    },
+    {
+      "left": "1L2Y-model-28",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6020080254743673
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-30",
+      "ca_rmsd_angstrom": 0.35566537154074074
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.3705104970691511
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.3043917916432454
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.7248131080402753
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.3858709143797592
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5488393146355802
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.5993769932306435
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.6448948426525123
+    },
+    {
+      "left": "1L2Y-model-29",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5165963060648507
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-31",
+      "ca_rmsd_angstrom": 0.41849398132348664
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.3053813630800174
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.845827206222898
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.3940327751869319
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.6798793097676624
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.6372324977501373
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.7598884266511734
+    },
+    {
+      "left": "1L2Y-model-30",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5906840220793118
+    },
+    {
+      "left": "1L2Y-model-31",
+      "right": "1L2Y-model-32",
+      "ca_rmsd_angstrom": 0.5000075666961649
+    },
+    {
+      "left": "1L2Y-model-31",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.8798220171282857
+    },
+    {
+      "left": "1L2Y-model-31",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.36985883027593924
+    },
+    {
+      "left": "1L2Y-model-31",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.46984921081254694
+    },
+    {
+      "left": "1L2Y-model-31",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7628259267593379
+    },
+    {
+      "left": "1L2Y-model-31",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.5513715938388806
+    },
+    {
+      "left": "1L2Y-model-31",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.37143106644564156
+    },
+    {
+      "left": "1L2Y-model-32",
+      "right": "1L2Y-model-33",
+      "ca_rmsd_angstrom": 0.7424631525215037
+    },
+    {
+      "left": "1L2Y-model-32",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.40100409069269405
+    },
+    {
+      "left": "1L2Y-model-32",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.6423857949480444
+    },
+    {
+      "left": "1L2Y-model-32",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.5971928132508456
+    },
+    {
+      "left": "1L2Y-model-32",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.7572157089983466
+    },
+    {
+      "left": "1L2Y-model-32",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6231943071443566
+    },
+    {
+      "left": "1L2Y-model-33",
+      "right": "1L2Y-model-34",
+      "ca_rmsd_angstrom": 0.8921504882450766
+    },
+    {
+      "left": "1L2Y-model-33",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.7341203996402091
+    },
+    {
+      "left": "1L2Y-model-33",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.6735258764994588
+    },
+    {
+      "left": "1L2Y-model-33",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.8427969940983551
+    },
+    {
+      "left": "1L2Y-model-33",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.8270098627759801
+    },
+    {
+      "left": "1L2Y-model-34",
+      "right": "1L2Y-model-35",
+      "ca_rmsd_angstrom": 0.5331499129320034
+    },
+    {
+      "left": "1L2Y-model-34",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.7812884468983736
+    },
+    {
+      "left": "1L2Y-model-34",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.6238775906478884
+    },
+    {
+      "left": "1L2Y-model-34",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5361317858362945
+    },
+    {
+      "left": "1L2Y-model-35",
+      "right": "1L2Y-model-36",
+      "ca_rmsd_angstrom": 0.9122525455802151
+    },
+    {
+      "left": "1L2Y-model-35",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 0.2750091106438042
+    },
+    {
+      "left": "1L2Y-model-35",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.5683366582743878
+    },
+    {
+      "left": "1L2Y-model-36",
+      "right": "1L2Y-model-37",
+      "ca_rmsd_angstrom": 1.0388499665925863
+    },
+    {
+      "left": "1L2Y-model-36",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.8699593259443053
+    },
+    {
+      "left": "1L2Y-model-37",
+      "right": "1L2Y-model-38",
+      "ca_rmsd_angstrom": 0.6445173596492029
+    }
+  ],
+  "residues": [
+    {
+      "key": "A:1:",
+      "mean_pair_displacement_angstrom": 1.6634190449558819
+    },
+    {
+      "key": "A:2:",
+      "mean_pair_displacement_angstrom": 0.4618567203529703
+    },
+    {
+      "key": "A:3:",
+      "mean_pair_displacement_angstrom": 0.34902916586646654
+    },
+    {
+      "key": "A:4:",
+      "mean_pair_displacement_angstrom": 0.3363481149683868
+    },
+    {
+      "key": "A:5:",
+      "mean_pair_displacement_angstrom": 0.3717868907123239
+    },
+    {
+      "key": "A:6:",
+      "mean_pair_displacement_angstrom": 0.26655828147490535
+    },
+    {
+      "key": "A:7:",
+      "mean_pair_displacement_angstrom": 0.2538261843136594
+    },
+    {
+      "key": "A:8:",
+      "mean_pair_displacement_angstrom": 0.394244101271602
+    },
+    {
+      "key": "A:9:",
+      "mean_pair_displacement_angstrom": 0.45813524437183284
+    },
+    {
+      "key": "A:10:",
+      "mean_pair_displacement_angstrom": 0.31165809462925664
+    },
+    {
+      "key": "A:11:",
+      "mean_pair_displacement_angstrom": 0.3318170273464183
+    },
+    {
+      "key": "A:12:",
+      "mean_pair_displacement_angstrom": 0.399776593609186
+    },
+    {
+      "key": "A:13:",
+      "mean_pair_displacement_angstrom": 0.45727701748576943
+    },
+    {
+      "key": "A:14:",
+      "mean_pair_displacement_angstrom": 0.5693369195454158
+    },
+    {
+      "key": "A:15:",
+      "mean_pair_displacement_angstrom": 0.7290898896481134
+    },
+    {
+      "key": "A:16:",
+      "mean_pair_displacement_angstrom": 0.4786489519518181
+    },
+    {
+      "key": "A:17:",
+      "mean_pair_displacement_angstrom": 0.41645480461246354
+    },
+    {
+      "key": "A:18:",
+      "mean_pair_displacement_angstrom": 0.4991738243048747
+    },
+    {
+      "key": "A:19:",
+      "mean_pair_displacement_angstrom": 0.5290330774959792
+    },
+    {
+      "key": "A:20:",
+      "mean_pair_displacement_angstrom": 1.2408211952568453
+    }
+  ],
+  "interpretation": "Global rigid alignment over all supplied chains. Fixed chain correspondence; symmetry permutations and domainwise alignment are not attempted. Consistency is not accuracy or thermodynamic flexibility.",
+  "study_note": "Experimental NMR ensemble for PDB 1L2Y (doi:10.2210/pdb1L2Y/pdb). This checks real coordinate correspondence and rigid alignment; it is not an AI seed benchmark or a thermodynamic flexibility estimate.",
+  "source_files": [
+    "trpcage.pdb"
+  ]
+}

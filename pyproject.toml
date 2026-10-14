@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bio-evidence"
+version = "0.2.0"
+description = "Checks for biological assay tables, data splits and model evaluation"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "Aarnav Bhat"}]
+dependencies = ["numpy>=2.2,<3", "scikit-learn>=1.6,<2"]
+
+[project.scripts]
+bio-evidence = "bio_evidence.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

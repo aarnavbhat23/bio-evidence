@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "id": "a1",
+      "status": "censored",
+      "mg_per_L": 64.0,
+      "operator": ">",
+      "chemistry": "all-L",
+      "source": "synthetic-paper-A"
+    },
+    {
+      "id": "a2",
+      "status": "exact",
+      "mg_per_L": 16.0,
+      "operator": "=",
+      "chemistry": "all-L",
+      "source": "synthetic-paper-A"
+    },
+    {
+      "id": "a3",
+      "status": "missing",
+      "mg_per_L": null,
+      "operator": null
+    },
+    {
+      "id": "a4",
+      "status": "manual_review",
+      "reason": "Unrecognized value or range"
+    }
+  ],
+  "counts": {
+    "exact": 1,
+    "censored": 1,
+    "missing": 1,
+    "manual_review": 1
+  },
+  "repeated_assay_keys": [
+    [
+      "a1",
+      "a2"
+    ]
+  ],
+  "interpretation": "Repeated keys need review; biological replicates may be valid. A censored value is a bound, never an exact concentration.",
+  "provenance": {
+    "input_sha256": "0991613e61858723990280e0d049d06bc586785b5b0de9b766d3a4e13a448055",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "id": "a1",
+      "sequence": "KLLK",
+      "chemistry": "all-L",
+      "source": "synthetic-paper-A",
+      "organism": "synthetic-strain",
+      "condition": "broth-A",
+      "value": ">64",
+      "unit": "ug/mL"
+    },
+    {
+      "id": "a2",
+      "sequence": "KLLK",
+      "chemistry": "all-L",
+      "source": "synthetic-paper-A",
+      "organism": "synthetic-strain",
+      "condition": "broth-A",
+      "value": "32",
+      "unit": "uM",
+      "molecular_weight_g_mol": 500
+    },
+    {
+      "id": "a3",
+      "sequence": "KLLK",
+      "chemistry": "all-D",
+      "source": "synthetic-paper-A",
+      "organism": "synthetic-strain",
+      "condition": "broth-A",
+      "value": null,
+      "unit": "ug/mL"
+    },
+    {
+      "id": "a4",
+      "sequence": "KLLK",
+      "chemistry": "all-L",
+      "source": "synthetic-paper-B",
+      "organism": "synthetic-strain",
+      "condition": "broth-A",
+      "value": "8-16",
+      "unit": "ug/mL"
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

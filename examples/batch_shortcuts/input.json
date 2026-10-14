@@ -1,0 +1,213 @@
+{
+  "rows": [
+    {
+      "id": "g0b0r0",
+      "perturbation": "toy-compound-0",
+      "batch": "batch-0",
+      "features": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g0b0r1",
+      "perturbation": "toy-compound-0",
+      "batch": "batch-0",
+      "features": [
+        1.02,
+        0.0,
+        0.0,
+        0.0,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g0b1r0",
+      "perturbation": "toy-compound-0",
+      "batch": "batch-1",
+      "features": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        8
+      ]
+    },
+    {
+      "id": "g0b1r1",
+      "perturbation": "toy-compound-0",
+      "batch": "batch-1",
+      "features": [
+        1.02,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        8
+      ]
+    },
+    {
+      "id": "g1b0r0",
+      "perturbation": "toy-compound-1",
+      "batch": "batch-0",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g1b0r1",
+      "perturbation": "toy-compound-1",
+      "batch": "batch-0",
+      "features": [
+        0.0,
+        1.02,
+        0.0,
+        0.0,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g1b1r0",
+      "perturbation": "toy-compound-1",
+      "batch": "batch-1",
+      "features": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        8
+      ]
+    },
+    {
+      "id": "g1b1r1",
+      "perturbation": "toy-compound-1",
+      "batch": "batch-1",
+      "features": [
+        0.0,
+        1.02,
+        0.0,
+        0.0,
+        0.0,
+        8
+      ]
+    },
+    {
+      "id": "g2b0r0",
+      "perturbation": "toy-compound-2",
+      "batch": "batch-0",
+      "features": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g2b0r1",
+      "perturbation": "toy-compound-2",
+      "batch": "batch-0",
+      "features": [
+        0.0,
+        0.0,
+        1.02,
+        0.0,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g2b1r0",
+      "perturbation": "toy-compound-2",
+      "batch": "batch-1",
+      "features": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        8
+      ]
+    },
+    {
+      "id": "g2b1r1",
+      "perturbation": "toy-compound-2",
+      "batch": "batch-1",
+      "features": [
+        0.0,
+        0.0,
+        1.02,
+        0.0,
+        0.0,
+        8
+      ]
+    },
+    {
+      "id": "g3b0r0",
+      "perturbation": "toy-compound-3",
+      "batch": "batch-0",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g3b0r1",
+      "perturbation": "toy-compound-3",
+      "batch": "batch-0",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.02,
+        8,
+        0.0
+      ]
+    },
+    {
+      "id": "g3b1r0",
+      "perturbation": "toy-compound-3",
+      "batch": "batch-1",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        8
+      ]
+    },
+    {
+      "id": "g3b1r1",
+      "perturbation": "toy-compound-3",
+      "batch": "batch-1",
+      "features": [
+        0.0,
+        0.0,
+        0.0,
+        1.02,
+        0.0,
+        8
+      ]
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

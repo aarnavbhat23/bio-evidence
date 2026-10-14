@@ -1,0 +1,714 @@
+{
+  "raw_metrics": {
+    "n": 60,
+    "accuracy": 0.0,
+    "macro_f1_fixed_three_labels": 0.0,
+    "per_label_f1": {
+      "supported": 0.0,
+      "contradicted": 0.0,
+      "insufficient": 0.0
+    },
+    "gold_label_counts": {
+      "supported": 20,
+      "contradicted": 20,
+      "insufficient": 20
+    },
+    "confusion": [
+      {
+        "gold": "contradicted",
+        "prediction": "abstain",
+        "n": 20
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "abstain",
+        "n": 20
+      },
+      {
+        "gold": "supported",
+        "prediction": "abstain",
+        "n": 20
+      }
+    ]
+  },
+  "quote_guarded_metrics": {
+    "n": 60,
+    "accuracy": 0.0,
+    "macro_f1_fixed_three_labels": 0.0,
+    "per_label_f1": {
+      "supported": 0.0,
+      "contradicted": 0.0,
+      "insufficient": 0.0
+    },
+    "gold_label_counts": {
+      "supported": 20,
+      "contradicted": 20,
+      "insufficient": 20
+    },
+    "confusion": [
+      {
+        "gold": "contradicted",
+        "prediction": "abstain",
+        "n": 20
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "abstain",
+        "n": 20
+      },
+      {
+        "gold": "supported",
+        "prediction": "abstain",
+        "n": 20
+      }
+    ]
+  },
+  "guarded_coverage": 0.0,
+  "invalid_or_empty_quote_rate": 1.0,
+  "by_scope": {
+    "scifact_provided_abstract": {
+      "n": 60,
+      "accuracy": 0.0,
+      "macro_f1_fixed_three_labels": 0.0,
+      "per_label_f1": {
+        "supported": 0.0,
+        "contradicted": 0.0,
+        "insufficient": 0.0
+      },
+      "gold_label_counts": {
+        "supported": 20,
+        "contradicted": 20,
+        "insufficient": 20
+      },
+      "confusion": [
+        {
+          "gold": "contradicted",
+          "prediction": "abstain",
+          "n": 20
+        },
+        {
+          "gold": "insufficient",
+          "prediction": "abstain",
+          "n": 20
+        },
+        {
+          "gold": "supported",
+          "prediction": "abstain",
+          "n": 20
+        }
+      ]
+    }
+  },
+  "ledger": [
+    {
+      "id": "3",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "14717500"
+    },
+    {
+      "id": "5",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "13734012"
+    },
+    {
+      "id": "49",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "5953485"
+    },
+    {
+      "id": "50",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "12580014"
+    },
+    {
+      "id": "53",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "45638119"
+    },
+    {
+      "id": "56",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4709641"
+    },
+    {
+      "id": "70",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4414547"
+    },
+    {
+      "id": "100",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4381486"
+    },
+    {
+      "id": "113",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "6157837"
+    },
+    {
+      "id": "118",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "6372244"
+    },
+    {
+      "id": "124",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4883040"
+    },
+    {
+      "id": "130",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "27768226"
+    },
+    {
+      "id": "133",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "16280642"
+    },
+    {
+      "id": "137",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "26016929"
+    },
+    {
+      "id": "141",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "14437255"
+    },
+    {
+      "id": "143",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "10582939"
+    },
+    {
+      "id": "146",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "10582939"
+    },
+    {
+      "id": "148",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "1084345"
+    },
+    {
+      "id": "163",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "18872233"
+    },
+    {
+      "id": "179",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "16322674"
+    },
+    {
+      "id": "42",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "18174210"
+    },
+    {
+      "id": "48",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "13734012"
+    },
+    {
+      "id": "51",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "45638119"
+    },
+    {
+      "id": "54",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "49556906"
+    },
+    {
+      "id": "57",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4709641"
+    },
+    {
+      "id": "115",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "33872649"
+    },
+    {
+      "id": "129",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "27768226"
+    },
+    {
+      "id": "142",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "10582939"
+    },
+    {
+      "id": "171",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "12670680"
+    },
+    {
+      "id": "180",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "16966326"
+    },
+    {
+      "id": "183",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "12827098"
+    },
+    {
+      "id": "185",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "18340282"
+    },
+    {
+      "id": "212",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "22038539"
+    },
+    {
+      "id": "216",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "21366394"
+    },
+    {
+      "id": "219",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "21366394"
+    },
+    {
+      "id": "233",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4388470"
+    },
+    {
+      "id": "249",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "1568684"
+    },
+    {
+      "id": "274",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "11614737"
+    },
+    {
+      "id": "338",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "23349986"
+    },
+    {
+      "id": "452",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "464511"
+    },
+    {
+      "id": "1",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "31715818"
+    },
+    {
+      "id": "13",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "1606628"
+    },
+    {
+      "id": "36",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "5152028"
+    },
+    {
+      "id": "72",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "6076903"
+    },
+    {
+      "id": "75",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4387784"
+    },
+    {
+      "id": "94",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "1215116"
+    },
+    {
+      "id": "99",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "18810195"
+    },
+    {
+      "id": "127",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "21598000"
+    },
+    {
+      "id": "128",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "8290953"
+    },
+    {
+      "id": "132",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "7975937"
+    },
+    {
+      "id": "198",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "2177022"
+    },
+    {
+      "id": "213",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "13625993"
+    },
+    {
+      "id": "232",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "10536636"
+    },
+    {
+      "id": "237",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4942718"
+    },
+    {
+      "id": "238",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "2251426"
+    },
+    {
+      "id": "268",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "970012"
+    },
+    {
+      "id": "269",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "970012"
+    },
+    {
+      "id": "294",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "10874408"
+    },
+    {
+      "id": "300",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "3553087"
+    },
+    {
+      "id": "303",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "abstain",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "",
+      "source_id": "4388470"
+    }
+  ],
+  "interpretation": "Gold labels must be reviewed by humans. Exact substring occurrence confirms provenance only. Fixed three-label macro-F1 includes absent classes as zero; report class counts.",
+  "model": {
+    "name": "HuggingFaceTB/SmolLM2-135M-Instruct",
+    "revision": "12fd25f77366fa6b3b4b768ec3050bf629380bac",
+    "device": "cpu",
+    "max_new_tokens": 80,
+    "do_sample": false
+  },
+  "valid_schema_fraction": 0.0,
+  "study_note": "Actual greedy inference of a very small instruction model on the same 60 balanced SciFact development pairs. This is a failure-case baseline, not a competitive verifier. Invalid JSON/schema becomes abstention. Gold labels are absent from prompts; model pretraining contamination was not audited."
+}

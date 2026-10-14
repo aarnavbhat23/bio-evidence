@@ -1,0 +1,86 @@
+{
+  "cases": [
+    {
+      "id": "c1",
+      "claim": "Compound X reduced signal in cultured cells.",
+      "evidence": "Compound X reduced reporter signal in cultured cells. No animal experiments were performed.",
+      "source_id": "synthetic-source-1",
+      "scope": "same_system",
+      "gold": "supported"
+    },
+    {
+      "id": "c2",
+      "claim": "Compound X cured disease in mice.",
+      "evidence": "Compound X reduced reporter signal in cultured cells. No animal experiments were performed.",
+      "source_id": "synthetic-source-1",
+      "scope": "cells_to_animals",
+      "gold": "insufficient"
+    },
+    {
+      "id": "c3",
+      "claim": "Peptide Y had a positive experimental activity result.",
+      "evidence": "Peptide Y was predicted to bind. Experimental testing found no activity in this assay.",
+      "source_id": "synthetic-source-2",
+      "scope": "prediction_to_experiment",
+      "gold": "contradicted"
+    },
+    {
+      "id": "c4",
+      "claim": "Protein Z bound in an assay.",
+      "evidence": "Protein Z was modeled computationally; binding was not measured.",
+      "source_id": "synthetic-source-3",
+      "scope": "prediction_to_experiment",
+      "gold": "insufficient"
+    },
+    {
+      "id": "c5",
+      "claim": "No activity was found in the assay.",
+      "evidence": "Experimental testing found no activity in this assay.",
+      "source_id": "synthetic-source-2",
+      "scope": "same_system",
+      "gold": "supported"
+    },
+    {
+      "id": "c6",
+      "claim": "Animals were tested.",
+      "evidence": "No animal experiments were performed.",
+      "source_id": "synthetic-source-1",
+      "scope": "same_system",
+      "gold": "contradicted"
+    }
+  ],
+  "predictions": [
+    {
+      "id": "c1",
+      "label": "supported",
+      "quote": "reduced reporter signal in cultured cells"
+    },
+    {
+      "id": "c2",
+      "label": "supported",
+      "quote": "cured disease in mice"
+    },
+    {
+      "id": "c3",
+      "label": "contradicted",
+      "quote": "Experimental testing found no activity in this assay."
+    },
+    {
+      "id": "c4",
+      "label": "insufficient",
+      "quote": "binding was not measured"
+    },
+    {
+      "id": "c5",
+      "label": "supported",
+      "quote": "Experimental testing found no activity in this assay."
+    },
+    {
+      "id": "c6",
+      "label": "contradicted",
+      "quote": "No animal experiments were performed."
+    }
+  ],
+  "prediction_origin": "Hand-authored synthetic fixture; no LLM was run for this file.",
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

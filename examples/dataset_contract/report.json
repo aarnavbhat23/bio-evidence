@@ -1,0 +1,22 @@
+{
+  "passed": false,
+  "n_rows": 3,
+  "content_sha256": "94a60b118181276864295903c88a06353b068e151f7afdf291ce928dd219a8d0",
+  "issues": [
+    {
+      "type": "cross_split_group",
+      "column": "family",
+      "group": "toy-A",
+      "splits": [
+        "test",
+        "train"
+      ]
+    }
+  ],
+  "interpretation": "Checks declared metadata and supplied grouping IDs. It cannot validate license rights, establish homology clusters or detect unknown source overlap. Content hash covers canonical JSON rows, not original file bytes.",
+  "provenance": {
+    "input_sha256": "8e6a6f37ddf9a903b5f764380a280e63332008ec5670f98f01d6e869de085cc4",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

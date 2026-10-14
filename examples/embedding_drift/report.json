@@ -1,0 +1,61 @@
+{
+  "n_sequences": 4,
+  "k": 1,
+  "records": [
+    {
+      "id": "p1",
+      "neighbor_overlap": 0.0,
+      "reference_neighbors": [
+        "p2"
+      ],
+      "candidate_neighbors": [
+        "p3"
+      ],
+      "reference_family_precision": 1.0,
+      "candidate_family_precision": 0.0
+    },
+    {
+      "id": "p2",
+      "neighbor_overlap": 0.0,
+      "reference_neighbors": [
+        "p1"
+      ],
+      "candidate_neighbors": [
+        "p4"
+      ],
+      "reference_family_precision": 1.0,
+      "candidate_family_precision": 0.0
+    },
+    {
+      "id": "p3",
+      "neighbor_overlap": 0.0,
+      "reference_neighbors": [
+        "p4"
+      ],
+      "candidate_neighbors": [
+        "p1"
+      ],
+      "reference_family_precision": 1.0,
+      "candidate_family_precision": 0.0
+    },
+    {
+      "id": "p4",
+      "neighbor_overlap": 0.0,
+      "reference_neighbors": [
+        "p3"
+      ],
+      "candidate_neighbors": [
+        "p2"
+      ],
+      "reference_family_precision": 1.0,
+      "candidate_family_precision": 0.0
+    }
+  ],
+  "mean_neighbor_overlap": 0.0,
+  "interpretation": "Neighbor turnover measures representation sensitivity; family precision requires trusted labels and is not activity prediction.",
+  "provenance": {
+    "input_sha256": "f2080a965405341842a91dd2e44af570ff75162d177a2f6b975b8dcf2bb524a7",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

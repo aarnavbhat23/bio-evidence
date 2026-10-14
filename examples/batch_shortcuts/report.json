@@ -1,0 +1,255 @@
+{
+  "within_batch": {
+    "n_eligible": 16,
+    "n_ineligible": 0,
+    "top1_hit_rate": 1.0,
+    "random_candidate_hit_rate": 0.14285714285714285,
+    "queries": [
+      {
+        "id": "g0b0r0",
+        "nearest_id": "g0b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g0b0r1",
+        "nearest_id": "g0b0r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g0b1r0",
+        "nearest_id": "g0b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g0b1r1",
+        "nearest_id": "g0b1r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g1b0r0",
+        "nearest_id": "g1b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g1b0r1",
+        "nearest_id": "g1b0r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g1b1r0",
+        "nearest_id": "g1b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g1b1r1",
+        "nearest_id": "g1b1r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g2b0r0",
+        "nearest_id": "g2b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g2b0r1",
+        "nearest_id": "g2b0r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g2b1r0",
+        "nearest_id": "g2b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g2b1r1",
+        "nearest_id": "g2b1r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g3b0r0",
+        "nearest_id": "g3b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g3b0r1",
+        "nearest_id": "g3b0r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g3b1r0",
+        "nearest_id": "g3b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      },
+      {
+        "id": "g3b1r1",
+        "nearest_id": "g3b1r0",
+        "hit": true,
+        "random_candidate_hit_rate": 0.14285714285714285
+      }
+    ]
+  },
+  "cross_batch": {
+    "n_eligible": 16,
+    "n_ineligible": 0,
+    "top1_hit_rate": 1.0,
+    "random_candidate_hit_rate": 0.25,
+    "queries": [
+      {
+        "id": "g0b0r0",
+        "nearest_id": "g0b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g0b0r1",
+        "nearest_id": "g0b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g0b1r0",
+        "nearest_id": "g0b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g0b1r1",
+        "nearest_id": "g0b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g1b0r0",
+        "nearest_id": "g1b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g1b0r1",
+        "nearest_id": "g1b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g1b1r0",
+        "nearest_id": "g1b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g1b1r1",
+        "nearest_id": "g1b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g2b0r0",
+        "nearest_id": "g2b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g2b0r1",
+        "nearest_id": "g2b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g2b1r0",
+        "nearest_id": "g2b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g2b1r1",
+        "nearest_id": "g2b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g3b0r0",
+        "nearest_id": "g3b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g3b0r1",
+        "nearest_id": "g3b1r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g3b1r0",
+        "nearest_id": "g3b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      },
+      {
+        "id": "g3b1r1",
+        "nearest_id": "g3b0r1",
+        "hit": true,
+        "random_candidate_hit_rate": 0.25
+      }
+    ]
+  },
+  "batch_classifier": {
+    "n_evaluated": 16,
+    "n_unevaluated": 0,
+    "accuracy": 1.0,
+    "majority_baseline_accuracy": 0.5,
+    "folds": [
+      {
+        "train_perturbations": [
+          "toy-compound-1",
+          "toy-compound-2"
+        ],
+        "test_perturbations": [
+          "toy-compound-0",
+          "toy-compound-3"
+        ]
+      },
+      {
+        "train_perturbations": [
+          "toy-compound-0",
+          "toy-compound-1",
+          "toy-compound-3"
+        ],
+        "test_perturbations": [
+          "toy-compound-2"
+        ]
+      },
+      {
+        "train_perturbations": [
+          "toy-compound-0",
+          "toy-compound-2",
+          "toy-compound-3"
+        ],
+        "test_perturbations": [
+          "toy-compound-1"
+        ]
+      }
+    ]
+  },
+  "warnings": [],
+  "interpretation": "Cosine retrieval; no global data normalization is learned. StandardScaler is fitted inside each classifier training fold. High batch predictability suggests a shortcut, not proof of artifact.",
+  "provenance": {
+    "input_sha256": "765248f2d3d64bc940e218d723324f1fd2962b9315c5b157a596f3bfc05b0a3f",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

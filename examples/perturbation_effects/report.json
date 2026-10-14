@@ -1,0 +1,40 @@
+{
+  "effect_units": "synthetic log2 fold change",
+  "effect_threshold": 0.2,
+  "pooled": {
+    "n": 4,
+    "mae": 0.7875,
+    "zero_effect_mae": 0.6375,
+    "mae_skill_vs_zero": -0.23529411764705888,
+    "n_observed_above_threshold": 3,
+    "sign_accuracy_on_observed_effects": 0.3333333333333333,
+    "predicted_neutral_on_observed_effects": 1
+  },
+  "by_context": {
+    "cell-A": {
+      "n": 2,
+      "mae": 0.7999999999999999,
+      "zero_effect_mae": 0.9,
+      "mae_skill_vs_zero": 0.11111111111111116,
+      "n_observed_above_threshold": 2,
+      "sign_accuracy_on_observed_effects": 0.5,
+      "predicted_neutral_on_observed_effects": 0
+    },
+    "cell-B": {
+      "n": 2,
+      "mae": 0.7749999999999999,
+      "zero_effect_mae": 0.375,
+      "mae_skill_vs_zero": -1.0666666666666664,
+      "n_observed_above_threshold": 1,
+      "sign_accuracy_on_observed_effects": 0.0,
+      "predicted_neutral_on_observed_effects": 1
+    }
+  },
+  "context_macro_mae": 0.7874999999999999,
+  "interpretation": "Threshold must be fixed before evaluation in these effect units. Input rows can be correlated; no rowwise significance claims. Precomputed effects and independent train/test separation are caller responsibilities.",
+  "provenance": {
+    "input_sha256": "bcac0c75c8829b5b150a6cc15a2c58521aa2f50174e8d43bfdbfc5f75fa5517e",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

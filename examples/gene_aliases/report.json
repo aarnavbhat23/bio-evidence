@@ -1,0 +1,65 @@
+{
+  "dictionary_version": "invented toy v1; not HGNC",
+  "queries": [
+    {
+      "id": "q1",
+      "candidates": [
+        "toy-human-1",
+        "toy-human-2"
+      ],
+      "prediction": null,
+      "status": "ambiguous",
+      "correct": true,
+      "gold_id": null
+    },
+    {
+      "id": "q2",
+      "candidates": [
+        "toy-mouse-1"
+      ],
+      "prediction": "toy-mouse-1",
+      "status": "resolved",
+      "correct": true,
+      "gold_id": "toy-mouse-1"
+    },
+    {
+      "id": "q3",
+      "candidates": [
+        "toy-human-1"
+      ],
+      "prediction": "toy-human-1",
+      "status": "resolved",
+      "correct": true,
+      "gold_id": "toy-human-1"
+    },
+    {
+      "id": "q4",
+      "candidates": [],
+      "prediction": null,
+      "status": "unknown",
+      "correct": true,
+      "gold_id": null
+    }
+  ],
+  "coverage": 0.5,
+  "n_labeled": 4,
+  "n_labeled_answered": 2,
+  "selective_accuracy": 1.0,
+  "including_abstention_accuracy": 1.0,
+  "collisions": [
+    {
+      "species": "human",
+      "alias": "shared",
+      "ids": [
+        "toy-human-1",
+        "toy-human-2"
+      ]
+    }
+  ],
+  "interpretation": "Exact case-folded dictionary lookup, with required species. Abstention is not disambiguation; dictionary currency and contextual mention annotation require independent review.",
+  "provenance": {
+    "input_sha256": "71a717a8ec919d01e2d8ea6bd2ffc213f0dccc258e05753ab4e196dda2457074",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

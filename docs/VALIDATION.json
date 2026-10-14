@@ -1,0 +1,10 @@
+{
+  "core_and_public_case_tests": 69,
+  "real_case_modules": 9,
+  "public_case_inference": {
+    "nli_cases": 60,
+    "small_instruction_model_cases": 60,
+    "small_instruction_model_valid_json": 0
+  },
+  "independent_review": false
+}

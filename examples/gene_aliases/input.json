@@ -1,0 +1,56 @@
+{
+  "dictionary_version": "invented toy v1; not HGNC",
+  "genes": [
+    {
+      "id": "toy-human-1",
+      "species": "human",
+      "symbol": "TOY1",
+      "aliases": [
+        "Shared"
+      ]
+    },
+    {
+      "id": "toy-human-2",
+      "species": "human",
+      "symbol": "TOY2",
+      "aliases": [
+        "Shared"
+      ]
+    },
+    {
+      "id": "toy-mouse-1",
+      "species": "mouse",
+      "symbol": "Toy1",
+      "aliases": [
+        "Shared"
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "id": "q1",
+      "mention": "shared",
+      "species": "human",
+      "gold_id": null
+    },
+    {
+      "id": "q2",
+      "mention": "shared",
+      "species": "mouse",
+      "gold_id": "toy-mouse-1"
+    },
+    {
+      "id": "q3",
+      "mention": "TOY1",
+      "species": "human",
+      "gold_id": "toy-human-1"
+    },
+    {
+      "id": "q4",
+      "mention": "unknown",
+      "species": "human",
+      "gold_id": null
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

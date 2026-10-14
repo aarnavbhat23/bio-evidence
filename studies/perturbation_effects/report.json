@@ -1,0 +1,84 @@
+{
+  "effect_units": "difference in means of source preprocessed log-expression",
+  "effect_threshold": 0.1,
+  "pooled": {
+    "n": 1400,
+    "mae": 0.006239329174004443,
+    "zero_effect_mae": 0.007502043989822725,
+    "mae_skill_vs_zero": 0.16831610392198204,
+    "n_observed_above_threshold": 8,
+    "sign_accuracy_on_observed_effects": 0.875,
+    "predicted_neutral_on_observed_effects": 1
+  },
+  "by_context": {
+    "B": {
+      "n": 200,
+      "mae": 0.005778758366417378,
+      "zero_effect_mae": 0.00712212884973269,
+      "mae_skill_vs_zero": 0.1886192333301765,
+      "n_observed_above_threshold": 1,
+      "sign_accuracy_on_observed_effects": 1.0,
+      "predicted_neutral_on_observed_effects": 0
+    },
+    "CD14+Mono": {
+      "n": 200,
+      "mae": 0.00583438534638276,
+      "zero_effect_mae": 0.00839322030529729,
+      "mae_skill_vs_zero": 0.30486927136888675,
+      "n_observed_above_threshold": 1,
+      "sign_accuracy_on_observed_effects": 1.0,
+      "predicted_neutral_on_observed_effects": 0
+    },
+    "CD4T": {
+      "n": 200,
+      "mae": 0.005073071338778732,
+      "zero_effect_mae": 0.00548530323561863,
+      "mae_skill_vs_zero": 0.07515207074844732,
+      "n_observed_above_threshold": 1,
+      "sign_accuracy_on_observed_effects": 1.0,
+      "predicted_neutral_on_observed_effects": 0
+    },
+    "CD8T": {
+      "n": 200,
+      "mae": 0.006409799605038415,
+      "zero_effect_mae": 0.005990767404146027,
+      "mae_skill_vs_zero": -0.06994633118327864,
+      "n_observed_above_threshold": 1,
+      "sign_accuracy_on_observed_effects": 1.0,
+      "predicted_neutral_on_observed_effects": 0
+    },
+    "Dendritic": {
+      "n": 200,
+      "mae": 0.005437583459397501,
+      "zero_effect_mae": 0.008350200028362452,
+      "mae_skill_vs_zero": 0.34880799969724086,
+      "n_observed_above_threshold": 1,
+      "sign_accuracy_on_observed_effects": 1.0,
+      "predicted_neutral_on_observed_effects": 0
+    },
+    "FCGR3A+Mono": {
+      "n": 200,
+      "mae": 0.0072324413708281556,
+      "zero_effect_mae": 0.009905774583858147,
+      "mae_skill_vs_zero": 0.26987624141844435,
+      "n_observed_above_threshold": 2,
+      "sign_accuracy_on_observed_effects": 0.5,
+      "predicted_neutral_on_observed_effects": 1
+    },
+    "NK": {
+      "n": 200,
+      "mae": 0.00790926473118816,
+      "zero_effect_mae": 0.007266913521743845,
+      "mae_skill_vs_zero": -0.08839395260756722,
+      "n_observed_above_threshold": 1,
+      "sign_accuracy_on_observed_effects": 1.0,
+      "predicted_neutral_on_observed_effects": 0
+    }
+  },
+  "context_macro_mae": 0.006239329174004443,
+  "interpretation": "Threshold must be fixed before evaluation in these effect units. Input rows can be correlated; no rowwise significance claims. Precomputed effects and independent train/test separation are caller responsibilities.",
+  "study_note": "scGen Kang tutorial data. Predict each held-out cell type with mean treatment deltas from the other cell types; first 200 alphabetical genes, fixed before effect inspection. No donor labels are present: this is cell-type holdout, not donor holdout. Source preprocessing and cell independence are not revalidated; no inference about clinical response.",
+  "source_files": [
+    "kang.h5ad"
+  ]
+}

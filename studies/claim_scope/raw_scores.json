@@ -1,0 +1,482 @@
+[
+  {
+    "id": "3",
+    "scores": {
+      "contradicted": 0.0391225591301918,
+      "supported": 0.031522203236818314,
+      "insufficient": 0.929355263710022
+    }
+  },
+  {
+    "id": "5",
+    "scores": {
+      "contradicted": 0.046933144330978394,
+      "supported": 0.1071179062128067,
+      "insufficient": 0.8459489345550537
+    }
+  },
+  {
+    "id": "49",
+    "scores": {
+      "contradicted": 0.09446164220571518,
+      "supported": 0.01586899720132351,
+      "insufficient": 0.8896693587303162
+    }
+  },
+  {
+    "id": "50",
+    "scores": {
+      "contradicted": 0.002085583284497261,
+      "supported": 0.9327066540718079,
+      "insufficient": 0.06520780920982361
+    }
+  },
+  {
+    "id": "53",
+    "scores": {
+      "contradicted": 0.011473084799945354,
+      "supported": 0.7996845841407776,
+      "insufficient": 0.18884240090847015
+    }
+  },
+  {
+    "id": "56",
+    "scores": {
+      "contradicted": 0.05618973821401596,
+      "supported": 0.030420731753110886,
+      "insufficient": 0.9133895635604858
+    }
+  },
+  {
+    "id": "70",
+    "scores": {
+      "contradicted": 0.05510618910193443,
+      "supported": 0.006493177730590105,
+      "insufficient": 0.9384006261825562
+    }
+  },
+  {
+    "id": "100",
+    "scores": {
+      "contradicted": 0.2867220938205719,
+      "supported": 0.009519956074655056,
+      "insufficient": 0.7037580013275146
+    }
+  },
+  {
+    "id": "113",
+    "scores": {
+      "contradicted": 0.041951984167099,
+      "supported": 0.026230845600366592,
+      "insufficient": 0.9318172335624695
+    }
+  },
+  {
+    "id": "118",
+    "scores": {
+      "contradicted": 0.005372755229473114,
+      "supported": 0.9043093919754028,
+      "insufficient": 0.09031785279512405
+    }
+  },
+  {
+    "id": "124",
+    "scores": {
+      "contradicted": 0.07992466539144516,
+      "supported": 0.12259750813245773,
+      "insufficient": 0.7974778413772583
+    }
+  },
+  {
+    "id": "130",
+    "scores": {
+      "contradicted": 0.03622834011912346,
+      "supported": 0.011593548581004143,
+      "insufficient": 0.9521780610084534
+    }
+  },
+  {
+    "id": "133",
+    "scores": {
+      "contradicted": 0.030629022046923637,
+      "supported": 0.01949685998260975,
+      "insufficient": 0.9498741030693054
+    }
+  },
+  {
+    "id": "137",
+    "scores": {
+      "contradicted": 0.3442234694957733,
+      "supported": 0.043930783867836,
+      "insufficient": 0.6118457317352295
+    }
+  },
+  {
+    "id": "141",
+    "scores": {
+      "contradicted": 0.41241300106048584,
+      "supported": 0.028058914467692375,
+      "insufficient": 0.559528112411499
+    }
+  },
+  {
+    "id": "143",
+    "scores": {
+      "contradicted": 0.30504995584487915,
+      "supported": 0.10993225872516632,
+      "insufficient": 0.5850178003311157
+    }
+  },
+  {
+    "id": "146",
+    "scores": {
+      "contradicted": 0.30409449338912964,
+      "supported": 0.11671535670757294,
+      "insufficient": 0.5791901350021362
+    }
+  },
+  {
+    "id": "148",
+    "scores": {
+      "contradicted": 0.05078550800681114,
+      "supported": 0.5146684050559998,
+      "insufficient": 0.4345460534095764
+    }
+  },
+  {
+    "id": "163",
+    "scores": {
+      "contradicted": 0.5284413695335388,
+      "supported": 0.060354556888341904,
+      "insufficient": 0.41120412945747375
+    }
+  },
+  {
+    "id": "179",
+    "scores": {
+      "contradicted": 0.09318110346794128,
+      "supported": 0.2740797698497772,
+      "insufficient": 0.6327391266822815
+    }
+  },
+  {
+    "id": "42",
+    "scores": {
+      "contradicted": 0.04643378406763077,
+      "supported": 0.014961346052587032,
+      "insufficient": 0.9386048316955566
+    }
+  },
+  {
+    "id": "48",
+    "scores": {
+      "contradicted": 0.04333580285310745,
+      "supported": 0.0945730060338974,
+      "insufficient": 0.8620912432670593
+    }
+  },
+  {
+    "id": "51",
+    "scores": {
+      "contradicted": 0.0427292063832283,
+      "supported": 0.01895291358232498,
+      "insufficient": 0.9383178949356079
+    }
+  },
+  {
+    "id": "54",
+    "scores": {
+      "contradicted": 0.6331431865692139,
+      "supported": 0.01769949682056904,
+      "insufficient": 0.34915730357170105
+    }
+  },
+  {
+    "id": "57",
+    "scores": {
+      "contradicted": 0.07117369025945663,
+      "supported": 0.03189946711063385,
+      "insufficient": 0.8969268798828125
+    }
+  },
+  {
+    "id": "115",
+    "scores": {
+      "contradicted": 0.05223941057920456,
+      "supported": 0.011511838994920254,
+      "insufficient": 0.9362487196922302
+    }
+  },
+  {
+    "id": "129",
+    "scores": {
+      "contradicted": 0.05145866051316261,
+      "supported": 0.014078779146075249,
+      "insufficient": 0.9344626069068909
+    }
+  },
+  {
+    "id": "142",
+    "scores": {
+      "contradicted": 0.3440437614917755,
+      "supported": 0.10595869272947311,
+      "insufficient": 0.5499975085258484
+    }
+  },
+  {
+    "id": "171",
+    "scores": {
+      "contradicted": 0.028343841433525085,
+      "supported": 0.016993960365653038,
+      "insufficient": 0.9546622037887573
+    }
+  },
+  {
+    "id": "180",
+    "scores": {
+      "contradicted": 0.5756243467330933,
+      "supported": 0.0035484093241393566,
+      "insufficient": 0.4208272695541382
+    }
+  },
+  {
+    "id": "183",
+    "scores": {
+      "contradicted": 0.05173412710428238,
+      "supported": 0.10221417993307114,
+      "insufficient": 0.8460517525672913
+    }
+  },
+  {
+    "id": "185",
+    "scores": {
+      "contradicted": 0.09129159152507782,
+      "supported": 0.044868942350149155,
+      "insufficient": 0.8638395071029663
+    }
+  },
+  {
+    "id": "212",
+    "scores": {
+      "contradicted": 0.1646071970462799,
+      "supported": 0.14051753282546997,
+      "insufficient": 0.6948752999305725
+    }
+  },
+  {
+    "id": "216",
+    "scores": {
+      "contradicted": 0.4206019639968872,
+      "supported": 0.11030979454517365,
+      "insufficient": 0.46908828616142273
+    }
+  },
+  {
+    "id": "219",
+    "scores": {
+      "contradicted": 0.023423464968800545,
+      "supported": 0.5723724365234375,
+      "insufficient": 0.4042041003704071
+    }
+  },
+  {
+    "id": "233",
+    "scores": {
+      "contradicted": 0.30570030212402344,
+      "supported": 0.23335018754005432,
+      "insufficient": 0.460949569940567
+    }
+  },
+  {
+    "id": "249",
+    "scores": {
+      "contradicted": 0.745312511920929,
+      "supported": 0.043543774634599686,
+      "insufficient": 0.21114367246627808
+    }
+  },
+  {
+    "id": "274",
+    "scores": {
+      "contradicted": 0.047176163643598557,
+      "supported": 0.02348506450653076,
+      "insufficient": 0.929338812828064
+    }
+  },
+  {
+    "id": "338",
+    "scores": {
+      "contradicted": 0.10673457384109497,
+      "supported": 0.03385952115058899,
+      "insufficient": 0.8594059348106384
+    }
+  },
+  {
+    "id": "452",
+    "scores": {
+      "contradicted": 0.18828625977039337,
+      "supported": 0.2210339903831482,
+      "insufficient": 0.5906797647476196
+    }
+  },
+  {
+    "id": "1",
+    "scores": {
+      "contradicted": 0.36554914712905884,
+      "supported": 0.16603440046310425,
+      "insufficient": 0.46841639280319214
+    }
+  },
+  {
+    "id": "13",
+    "scores": {
+      "contradicted": 0.09756314009428024,
+      "supported": 0.04388899356126785,
+      "insufficient": 0.8585479259490967
+    }
+  },
+  {
+    "id": "36",
+    "scores": {
+      "contradicted": 0.02452499233186245,
+      "supported": 0.00930721964687109,
+      "insufficient": 0.9661678075790405
+    }
+  },
+  {
+    "id": "72",
+    "scores": {
+      "contradicted": 0.5978421568870544,
+      "supported": 0.10661923140287399,
+      "insufficient": 0.29553863406181335
+    }
+  },
+  {
+    "id": "75",
+    "scores": {
+      "contradicted": 0.17859682440757751,
+      "supported": 0.05982963368296623,
+      "insufficient": 0.7615735530853271
+    }
+  },
+  {
+    "id": "94",
+    "scores": {
+      "contradicted": 0.004844523500651121,
+      "supported": 0.02672598324716091,
+      "insufficient": 0.9684295058250427
+    }
+  },
+  {
+    "id": "99",
+    "scores": {
+      "contradicted": 0.007362116128206253,
+      "supported": 0.003160635242238641,
+      "insufficient": 0.9894772171974182
+    }
+  },
+  {
+    "id": "127",
+    "scores": {
+      "contradicted": 0.10838214308023453,
+      "supported": 0.0088817048817873,
+      "insufficient": 0.8827361464500427
+    }
+  },
+  {
+    "id": "128",
+    "scores": {
+      "contradicted": 0.028224123641848564,
+      "supported": 0.028724130243062973,
+      "insufficient": 0.9430516958236694
+    }
+  },
+  {
+    "id": "132",
+    "scores": {
+      "contradicted": 0.19357720017433167,
+      "supported": 0.023035988211631775,
+      "insufficient": 0.7833868265151978
+    }
+  },
+  {
+    "id": "198",
+    "scores": {
+      "contradicted": 0.9350510835647583,
+      "supported": 0.005587647669017315,
+      "insufficient": 0.059361282736063004
+    }
+  },
+  {
+    "id": "213",
+    "scores": {
+      "contradicted": 0.8600228428840637,
+      "supported": 0.006705038249492645,
+      "insufficient": 0.13327200710773468
+    }
+  },
+  {
+    "id": "232",
+    "scores": {
+      "contradicted": 0.03023049235343933,
+      "supported": 0.0014517735689878464,
+      "insufficient": 0.9683176875114441
+    }
+  },
+  {
+    "id": "237",
+    "scores": {
+      "contradicted": 0.025377608835697174,
+      "supported": 0.1295563280582428,
+      "insufficient": 0.8450660109519958
+    }
+  },
+  {
+    "id": "238",
+    "scores": {
+      "contradicted": 0.01731196604669094,
+      "supported": 0.0033521833829581738,
+      "insufficient": 0.9793358445167542
+    }
+  },
+  {
+    "id": "268",
+    "scores": {
+      "contradicted": 0.533240556716919,
+      "supported": 0.04452015832066536,
+      "insufficient": 0.4222393333911896
+    }
+  },
+  {
+    "id": "269",
+    "scores": {
+      "contradicted": 0.4468192160129547,
+      "supported": 0.04310353100299835,
+      "insufficient": 0.5100772380828857
+    }
+  },
+  {
+    "id": "294",
+    "scores": {
+      "contradicted": 0.01866811141371727,
+      "supported": 0.005902557168155909,
+      "insufficient": 0.9754292964935303
+    }
+  },
+  {
+    "id": "300",
+    "scores": {
+      "contradicted": 0.02872677706182003,
+      "supported": 0.12940889596939087,
+      "insufficient": 0.8418643474578857
+    }
+  },
+  {
+    "id": "303",
+    "scores": {
+      "contradicted": 0.21345442533493042,
+      "supported": 0.22639037668704987,
+      "insufficient": 0.5601551532745361
+    }
+  }
+]

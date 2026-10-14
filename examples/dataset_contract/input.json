@@ -1,0 +1,42 @@
+{
+  "rows": [
+    {
+      "id": "r1",
+      "sequence": "KLLK",
+      "family": "toy-A",
+      "paper": "paper-A",
+      "split": "train"
+    },
+    {
+      "id": "r2",
+      "sequence": "DEDE",
+      "family": "toy-B",
+      "paper": "paper-B",
+      "split": "test"
+    },
+    {
+      "id": "r3",
+      "sequence": "KLLR",
+      "family": "toy-A",
+      "paper": "paper-C",
+      "split": "test"
+    }
+  ],
+  "contract": {
+    "source_uri": "fixture://synthetic",
+    "license": "MIT (original synthetic fixture)",
+    "version": "v1",
+    "citation": "Original synthetic demo",
+    "sha256": "94a60b118181276864295903c88a06353b068e151f7afdf291ce928dd219a8d0",
+    "required_columns": [
+      "sequence"
+    ],
+    "id_column": "id",
+    "split_column": "split",
+    "group_columns": [
+      "family",
+      "paper"
+    ]
+  },
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

@@ -1,0 +1,220 @@
+{
+  "raw_metrics": {
+    "n": 6,
+    "accuracy": 0.8333333333333334,
+    "macro_f1_fixed_three_labels": 0.8222222222222223,
+    "per_label_f1": {
+      "supported": 0.8,
+      "contradicted": 1.0,
+      "insufficient": 0.6666666666666666
+    },
+    "gold_label_counts": {
+      "supported": 2,
+      "insufficient": 2,
+      "contradicted": 2
+    },
+    "confusion": [
+      {
+        "gold": "contradicted",
+        "prediction": "contradicted",
+        "n": 2
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "insufficient",
+        "n": 1
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "supported",
+        "n": 1
+      },
+      {
+        "gold": "supported",
+        "prediction": "supported",
+        "n": 2
+      }
+    ]
+  },
+  "quote_guarded_metrics": {
+    "n": 6,
+    "accuracy": 0.8333333333333334,
+    "macro_f1_fixed_three_labels": 0.8888888888888888,
+    "per_label_f1": {
+      "supported": 1.0,
+      "contradicted": 1.0,
+      "insufficient": 0.6666666666666666
+    },
+    "gold_label_counts": {
+      "supported": 2,
+      "insufficient": 2,
+      "contradicted": 2
+    },
+    "confusion": [
+      {
+        "gold": "contradicted",
+        "prediction": "contradicted",
+        "n": 2
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "abstain",
+        "n": 1
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "insufficient",
+        "n": 1
+      },
+      {
+        "gold": "supported",
+        "prediction": "supported",
+        "n": 2
+      }
+    ]
+  },
+  "guarded_coverage": 0.8333333333333334,
+  "invalid_or_empty_quote_rate": 0.16666666666666666,
+  "by_scope": {
+    "cells_to_animals": {
+      "n": 1,
+      "accuracy": 0.0,
+      "macro_f1_fixed_three_labels": 0.0,
+      "per_label_f1": {
+        "supported": 0.0,
+        "contradicted": 0.0,
+        "insufficient": 0.0
+      },
+      "gold_label_counts": {
+        "insufficient": 1
+      },
+      "confusion": [
+        {
+          "gold": "insufficient",
+          "prediction": "abstain",
+          "n": 1
+        }
+      ]
+    },
+    "prediction_to_experiment": {
+      "n": 2,
+      "accuracy": 1.0,
+      "macro_f1_fixed_three_labels": 0.6666666666666666,
+      "per_label_f1": {
+        "supported": 0.0,
+        "contradicted": 1.0,
+        "insufficient": 1.0
+      },
+      "gold_label_counts": {
+        "contradicted": 1,
+        "insufficient": 1
+      },
+      "confusion": [
+        {
+          "gold": "contradicted",
+          "prediction": "contradicted",
+          "n": 1
+        },
+        {
+          "gold": "insufficient",
+          "prediction": "insufficient",
+          "n": 1
+        }
+      ]
+    },
+    "same_system": {
+      "n": 3,
+      "accuracy": 1.0,
+      "macro_f1_fixed_three_labels": 0.6666666666666666,
+      "per_label_f1": {
+        "supported": 1.0,
+        "contradicted": 1.0,
+        "insufficient": 0.0
+      },
+      "gold_label_counts": {
+        "supported": 2,
+        "contradicted": 1
+      },
+      "confusion": [
+        {
+          "gold": "contradicted",
+          "prediction": "contradicted",
+          "n": 1
+        },
+        {
+          "gold": "supported",
+          "prediction": "supported",
+          "n": 2
+        }
+      ]
+    }
+  },
+  "ledger": [
+    {
+      "id": "c1",
+      "scope": "same_system",
+      "gold": "supported",
+      "raw_label": "supported",
+      "quote_occurs": true,
+      "guarded_label": "supported",
+      "quote": "reduced reporter signal in cultured cells",
+      "source_id": "synthetic-source-1"
+    },
+    {
+      "id": "c2",
+      "scope": "cells_to_animals",
+      "gold": "insufficient",
+      "raw_label": "supported",
+      "quote_occurs": false,
+      "guarded_label": "abstain",
+      "quote": "cured disease in mice",
+      "source_id": "synthetic-source-1"
+    },
+    {
+      "id": "c3",
+      "scope": "prediction_to_experiment",
+      "gold": "contradicted",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "Experimental testing found no activity in this assay.",
+      "source_id": "synthetic-source-2"
+    },
+    {
+      "id": "c4",
+      "scope": "prediction_to_experiment",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "binding was not measured",
+      "source_id": "synthetic-source-3"
+    },
+    {
+      "id": "c5",
+      "scope": "same_system",
+      "gold": "supported",
+      "raw_label": "supported",
+      "quote_occurs": true,
+      "guarded_label": "supported",
+      "quote": "Experimental testing found no activity in this assay.",
+      "source_id": "synthetic-source-2"
+    },
+    {
+      "id": "c6",
+      "scope": "same_system",
+      "gold": "contradicted",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "No animal experiments were performed.",
+      "source_id": "synthetic-source-1"
+    }
+  ],
+  "interpretation": "Gold labels must be reviewed by humans. Exact substring occurrence confirms provenance only. Fixed three-label macro-F1 includes absent classes as zero; report class counts.",
+  "provenance": {
+    "input_sha256": "321c312535a5491790e470ad00bf5f401853694c5244ea97eb10fb89ff9add15",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

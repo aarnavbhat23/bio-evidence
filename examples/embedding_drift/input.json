@@ -1,0 +1,62 @@
+{
+  "k": 1,
+  "rows": [
+    {
+      "id": "p1",
+      "family": "toy-A",
+      "reference": [
+        1,
+        0.05,
+        0
+      ],
+      "candidate": [
+        1,
+        0.05,
+        0
+      ]
+    },
+    {
+      "id": "p2",
+      "family": "toy-A",
+      "reference": [
+        1,
+        0.1,
+        0
+      ],
+      "candidate": [
+        0,
+        1,
+        0.1
+      ]
+    },
+    {
+      "id": "p3",
+      "family": "toy-B",
+      "reference": [
+        0,
+        1,
+        0.1
+      ],
+      "candidate": [
+        1,
+        0.1,
+        0
+      ]
+    },
+    {
+      "id": "p4",
+      "family": "toy-B",
+      "reference": [
+        0,
+        1,
+        0.2
+      ],
+      "candidate": [
+        0,
+        1,
+        0.2
+      ]
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}

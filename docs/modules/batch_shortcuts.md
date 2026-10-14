@@ -1,0 +1,5 @@
+# Input schema and interpretation
+
+Rows require unique `id`, string `batch`, string `perturbation` and finite nonzero `features`. Each row should represent an independent well-level profile. Cosine retrieval tests same perturbation among within-batch or cross-batch candidates, excluding self. A query lacking any positive candidate is ineligible and reported separately. Random-candidate hit rate accounts for candidate composition. Exact ties use input order.
+
+Batch prediction uses standardized logistic regression with group folds held out by perturbation; scaling is learned inside the training fold. Three folds maximum; folds with one training batch are skipped. Majority training-batch prediction is the baseline. Perturbations appearing in only one batch trigger a confounding warning. This MVP does not handle repeated wells across plates, balance assays, perform batch correction or establish causal artifacts. Use compound-level bootstrap and matched batch designs before drawing conclusions.

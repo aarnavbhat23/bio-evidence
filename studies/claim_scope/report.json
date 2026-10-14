@@ -1,0 +1,793 @@
+{
+  "raw_metrics": {
+    "n": 60,
+    "accuracy": 0.38333333333333336,
+    "macro_f1_fixed_three_labels": 0.33729921819474057,
+    "per_label_f1": {
+      "supported": 0.32,
+      "contradicted": 0.21428571428571427,
+      "insufficient": 0.47761194029850745
+    },
+    "gold_label_counts": {
+      "supported": 20,
+      "contradicted": 20,
+      "insufficient": 20
+    },
+    "confusion": [
+      {
+        "gold": "contradicted",
+        "prediction": "contradicted",
+        "n": 3
+      },
+      {
+        "gold": "contradicted",
+        "prediction": "insufficient",
+        "n": 16
+      },
+      {
+        "gold": "contradicted",
+        "prediction": "supported",
+        "n": 1
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "contradicted",
+        "n": 4
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "insufficient",
+        "n": 16
+      },
+      {
+        "gold": "supported",
+        "prediction": "contradicted",
+        "n": 1
+      },
+      {
+        "gold": "supported",
+        "prediction": "insufficient",
+        "n": 15
+      },
+      {
+        "gold": "supported",
+        "prediction": "supported",
+        "n": 4
+      }
+    ]
+  },
+  "quote_guarded_metrics": {
+    "n": 60,
+    "accuracy": 0.38333333333333336,
+    "macro_f1_fixed_three_labels": 0.33729921819474057,
+    "per_label_f1": {
+      "supported": 0.32,
+      "contradicted": 0.21428571428571427,
+      "insufficient": 0.47761194029850745
+    },
+    "gold_label_counts": {
+      "supported": 20,
+      "contradicted": 20,
+      "insufficient": 20
+    },
+    "confusion": [
+      {
+        "gold": "contradicted",
+        "prediction": "contradicted",
+        "n": 3
+      },
+      {
+        "gold": "contradicted",
+        "prediction": "insufficient",
+        "n": 16
+      },
+      {
+        "gold": "contradicted",
+        "prediction": "supported",
+        "n": 1
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "contradicted",
+        "n": 4
+      },
+      {
+        "gold": "insufficient",
+        "prediction": "insufficient",
+        "n": 16
+      },
+      {
+        "gold": "supported",
+        "prediction": "contradicted",
+        "n": 1
+      },
+      {
+        "gold": "supported",
+        "prediction": "insufficient",
+        "n": 15
+      },
+      {
+        "gold": "supported",
+        "prediction": "supported",
+        "n": 4
+      }
+    ]
+  },
+  "guarded_coverage": 1.0,
+  "invalid_or_empty_quote_rate": 0.0,
+  "by_scope": {
+    "scifact_provided_abstract": {
+      "n": 60,
+      "accuracy": 0.38333333333333336,
+      "macro_f1_fixed_three_labels": 0.33729921819474057,
+      "per_label_f1": {
+        "supported": 0.32,
+        "contradicted": 0.21428571428571427,
+        "insufficient": 0.47761194029850745
+      },
+      "gold_label_counts": {
+        "supported": 20,
+        "contradicted": 20,
+        "insufficient": 20
+      },
+      "confusion": [
+        {
+          "gold": "contradicted",
+          "prediction": "contradicted",
+          "n": 3
+        },
+        {
+          "gold": "contradicted",
+          "prediction": "insufficient",
+          "n": 16
+        },
+        {
+          "gold": "contradicted",
+          "prediction": "supported",
+          "n": 1
+        },
+        {
+          "gold": "insufficient",
+          "prediction": "contradicted",
+          "n": 4
+        },
+        {
+          "gold": "insufficient",
+          "prediction": "insufficient",
+          "n": 16
+        },
+        {
+          "gold": "supported",
+          "prediction": "contradicted",
+          "n": 1
+        },
+        {
+          "gold": "supported",
+          "prediction": "insufficient",
+          "n": 15
+        },
+        {
+          "gold": "supported",
+          "prediction": "supported",
+          "n": 4
+        }
+      ]
+    }
+  },
+  "ledger": [
+    {
+      "id": "3",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Genome-wide association studies (GWAS) have now identified at least 2,000 common variants that appear associated with common diseases or related traits (http://",
+      "source_id": "14717500"
+    },
+    {
+      "id": "5",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "OBJECTIVES To carry out a further survey of archived appendix samples to understand better the differences between existing estimates of the prevalence of subcl",
+      "source_id": "13734012"
+    },
+    {
+      "id": "49",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Adenosine deaminases acting on RNA (ADARs) are involved in RNA editing that converts adenosine residues to inosine specifically in double-stranded RNAs",
+      "source_id": "5953485"
+    },
+    {
+      "id": "50",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "supported",
+      "quote_occurs": true,
+      "guarded_label": "supported",
+      "quote": "Expression of the intermediate filament protein keratin 17 (K17) is robustly upregulated in inflammatory skin diseases and in many tumors originating in stratif",
+      "source_id": "12580014"
+    },
+    {
+      "id": "53",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "supported",
+      "quote_occurs": true,
+      "guarded_label": "supported",
+      "quote": "Application of stem cell biology to breast cancer research has been limited by the lack of simple methods for identification and isolation of normal and maligna",
+      "source_id": "45638119"
+    },
+    {
+      "id": "56",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Efforts to develop drugs for Alzheimer's disease (AD) have shown promise in animal studies, only to fail in human trials, suggesting a pressing need to study AD",
+      "source_id": "4709641"
+    },
+    {
+      "id": "70",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Improved sequencing technologies offer unprecedented opportunities for investigating the role of rare genetic variation in common disease",
+      "source_id": "4414547"
+    },
+    {
+      "id": "100",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Stem cells are proposed to segregate chromosomes asymmetrically during self-renewing divisions so that older (\u2018immortal\u2019) DNA strands are retained in daughter s",
+      "source_id": "4381486"
+    },
+    {
+      "id": "113",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Angiotensin converting enzyme (ACE) inhibitors are now one of the most frequently used classes of antihypertensive drugs",
+      "source_id": "6157837"
+    },
+    {
+      "id": "118",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "supported",
+      "quote_occurs": true,
+      "guarded_label": "supported",
+      "quote": "Antibiotics can have significant and long-lasting effects on the gastrointestinal tract microbiota, reducing colonization resistance against pathogens including",
+      "source_id": "6372244"
+    },
+    {
+      "id": "124",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "BACKGROUND Human immunodeficiency virus (HIV) infection is the strongest risk factor for developing tuberculosis and has fuelled its resurgence, especially in s",
+      "source_id": "4883040"
+    },
+    {
+      "id": "130",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "PLoS Biology publishes today a research article by Gunther Eysenbach that is not about biology",
+      "source_id": "27768226"
+    },
+    {
+      "id": "133",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Podosomes (also termed invadopodia in cancer cells) are actin-rich adhesion structures with matrix degradation activity that develop in various cell types",
+      "source_id": "16280642"
+    },
+    {
+      "id": "137",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "OBJECTIVE To assess whether population screening for impaired vision among older people in the community leads to improvements in vision",
+      "source_id": "26016929"
+    },
+    {
+      "id": "141",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "UNLABELLED Congruent audiovisual speech enhances our ability to comprehend a speaker, even in noise-free conditions",
+      "source_id": "14437255"
+    },
+    {
+      "id": "143",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "CONTEXT Antibody-based induction therapy plus calcineurin inhibitors (CNIs) reduce acute rejection rates in kidney recipients; however, opportunistic infections",
+      "source_id": "10582939"
+    },
+    {
+      "id": "146",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "CONTEXT Antibody-based induction therapy plus calcineurin inhibitors (CNIs) reduce acute rejection rates in kidney recipients; however, opportunistic infections",
+      "source_id": "10582939"
+    },
+    {
+      "id": "148",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "supported",
+      "quote_occurs": true,
+      "guarded_label": "supported",
+      "quote": "Chaperone-mediated autophagy (CMA), a selective mechanism for degradation of cytosolic proteins in lysosomes, contributes to the removal of altered proteins as ",
+      "source_id": "1084345"
+    },
+    {
+      "id": "163",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "IMPORTANCE Bariatric surgery is associated with sustained weight loss and improved physical health status for severely obese individuals",
+      "source_id": "18872233"
+    },
+    {
+      "id": "179",
+      "scope": "scifact_provided_abstract",
+      "gold": "supported",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "BACKGROUND Birth size, perhaps a proxy for prenatal environment, might be a correlate of subsequent breast cancer risk, but findings from epidemiological studie",
+      "source_id": "16322674"
+    },
+    {
+      "id": "42",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "BACKGROUND The heritable haemoglobinopathy alpha(+)-thalassaemia is caused by the reduced synthesis of alpha-globin chains that form part of normal adult haemog",
+      "source_id": "18174210"
+    },
+    {
+      "id": "48",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "OBJECTIVES To carry out a further survey of archived appendix samples to understand better the differences between existing estimates of the prevalence of subcl",
+      "source_id": "13734012"
+    },
+    {
+      "id": "51",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Application of stem cell biology to breast cancer research has been limited by the lack of simple methods for identification and isolation of normal and maligna",
+      "source_id": "45638119"
+    },
+    {
+      "id": "54",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "Fibrosis is a pathological result of a dysfunctional repair response to tissue injury and occurs in a number of organs, including the lungs1",
+      "source_id": "49556906"
+    },
+    {
+      "id": "57",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Efforts to develop drugs for Alzheimer's disease (AD) have shown promise in animal studies, only to fail in human trials, suggesting a pressing need to study AD",
+      "source_id": "4709641"
+    },
+    {
+      "id": "115",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "CONTEXT Bioterrorist attacks involving letters and mail-handling systems in Washington, DC, resulted in Bacillus anthracis (anthrax) spore contamination in the ",
+      "source_id": "33872649"
+    },
+    {
+      "id": "129",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "PLoS Biology publishes today a research article by Gunther Eysenbach that is not about biology",
+      "source_id": "27768226"
+    },
+    {
+      "id": "142",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "CONTEXT Antibody-based induction therapy plus calcineurin inhibitors (CNIs) reduce acute rejection rates in kidney recipients; however, opportunistic infections",
+      "source_id": "10582939"
+    },
+    {
+      "id": "171",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "In systemic lupus erythematosus (SLE), self-reactive antibodies can target the kidney (lupus nephritis), leading to functional failure and possible mortality",
+      "source_id": "12670680"
+    },
+    {
+      "id": "180",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "Genetic mutations in TAR DNA-binding protein 43 (TARDBP, also known as TDP-43) cause amyotrophic lateral sclerosis (ALS), and an increase in the presence of TDP",
+      "source_id": "16966326"
+    },
+    {
+      "id": "183",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Despite accumulating evidence suggesting local self-maintenance of tissue macrophages in the steady state, the dogma remains that tissue macrophages derive from",
+      "source_id": "12827098"
+    },
+    {
+      "id": "185",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "BACKGROUND Information is scarce about the combined effects on breast cancer incidence of low-penetrance genetic susceptibility polymorphisms and environmental ",
+      "source_id": "18340282"
+    },
+    {
+      "id": "212",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "In mammals, caloric restriction consistently results in extended lifespan",
+      "source_id": "22038539"
+    },
+    {
+      "id": "216",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Allergic asthma is a T helper type 2 (T(H)2)-dominated disease of the lung",
+      "source_id": "21366394"
+    },
+    {
+      "id": "219",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "supported",
+      "quote_occurs": true,
+      "guarded_label": "supported",
+      "quote": "Allergic asthma is a T helper type 2 (T(H)2)-dominated disease of the lung",
+      "source_id": "21366394"
+    },
+    {
+      "id": "233",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "In the mammalian model of sex determination, embryos are considered to be sexually indifferent until the transient action of a sex-determining gene initiates go",
+      "source_id": "4388470"
+    },
+    {
+      "id": "249",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "The interest in brown adipose tissue (BAT) as a target to combat metabolic disease has recently been renewed with the discovery of functional BAT in humans",
+      "source_id": "1568684"
+    },
+    {
+      "id": "274",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "IMPORTANCE Combining pharmacotherapies for tobacco-dependence treatment may increase smoking abstinence",
+      "source_id": "11614737"
+    },
+    {
+      "id": "338",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "CONTEXT Dexamethasone is widely used to prevent postoperative nausea and vomiting (PONV) in pediatric tonsillectomy",
+      "source_id": "23349986"
+    },
+    {
+      "id": "452",
+      "scope": "scifact_provided_abstract",
+      "gold": "contradicted",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Genetically identical cells sharing an environment can display markedly different phenotypes",
+      "source_id": "464511"
+    },
+    {
+      "id": "1",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Nanotechnologies are emerging platforms that could be useful in measuring, understanding, and manipulating stem cells",
+      "source_id": "31715818"
+    },
+    {
+      "id": "13",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "CONTEXT One key target of the United Nations Millennium Development goals is to reduce the prevalence of underweight among children younger than 5 years by half",
+      "source_id": "1606628"
+    },
+    {
+      "id": "36",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "BACKGROUND Homocysteine is a risk factor for coronary artery disease (CAD), although a causal relation remains to be proven",
+      "source_id": "5152028"
+    },
+    {
+      "id": "72",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "Embryos have the ability to self-regulate and regenerate normal structures after being sectioned in half",
+      "source_id": "6076903"
+    },
+    {
+      "id": "75",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Half the world's population is chronically infected with Helicobacter pylori, causing gastritis, gastric ulcers and an increased incidence of gastric adenocarci",
+      "source_id": "4387784"
+    },
+    {
+      "id": "94",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Over the past two decades there have been significant achievements in the control of a handful of important human tropical infections [1]",
+      "source_id": "1215116"
+    },
+    {
+      "id": "99",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "How oncogenic signalling coordinates glycolysis and anabolic biosynthesis in cancer cells remains unclear",
+      "source_id": "18810195"
+    },
+    {
+      "id": "127",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Plus-end tracking proteins, such as EB1 and the dynein/dynactin complex, regulate microtubule dynamics",
+      "source_id": "21598000"
+    },
+    {
+      "id": "128",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "BACKGROUND We have developed techniques to implant angiogenic patches onto the epicardium over regions of infarcted cardiac tissue to stimulate revascularizatio",
+      "source_id": "8290953"
+    },
+    {
+      "id": "132",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "The mechanisms by which melanoma and other cancer cells evade anti-tumor immunity remain incompletely understood",
+      "source_id": "7975937"
+    },
+    {
+      "id": "198",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "Chemokines orchestrate immune cell trafficking by eliciting either directed or random migration and by activating integrins in order to induce cell adhesion",
+      "source_id": "2177022"
+    },
+    {
+      "id": "213",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "OBJECTIVE To determine the effectiveness and cost effectiveness of using information from circulating biomarkers to inform the prioritisation process of patient",
+      "source_id": "13625993"
+    },
+    {
+      "id": "232",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Background Blindness and low vision are thought to be common in southern Sudan",
+      "source_id": "10536636"
+    },
+    {
+      "id": "237",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "The differentiation of the bacterium Bacillus subtilis into a dormant spore is among the most well-characterized developmental pathways in biology",
+      "source_id": "4942718"
+    },
+    {
+      "id": "238",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Emerging data suggest that microRNAs (miRNAs) are instrumental in a variety of stress responses in addition to their more recognized role in development",
+      "source_id": "2251426"
+    },
+    {
+      "id": "268",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "contradicted",
+      "quote_occurs": true,
+      "guarded_label": "contradicted",
+      "quote": "Molecular mechanisms underlying the cold-associated high cardiovascular risk remain unknown",
+      "source_id": "970012"
+    },
+    {
+      "id": "269",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Molecular mechanisms underlying the cold-associated high cardiovascular risk remain unknown",
+      "source_id": "970012"
+    },
+    {
+      "id": "294",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "DNA double-strand breaks (DSBs), which are formed by the Spo11 protein, initiate meiotic recombination",
+      "source_id": "10874408"
+    },
+    {
+      "id": "300",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "Chronic obstructive pulmonary disease (COPD) is linked to both cigarette smoking and genetic determinants",
+      "source_id": "3553087"
+    },
+    {
+      "id": "303",
+      "scope": "scifact_provided_abstract",
+      "gold": "insufficient",
+      "raw_label": "insufficient",
+      "quote_occurs": true,
+      "guarded_label": "insufficient",
+      "quote": "In the mammalian model of sex determination, embryos are considered to be sexually indifferent until the transient action of a sex-determining gene initiates go",
+      "source_id": "4388470"
+    }
+  ],
+  "interpretation": "Gold labels must be reviewed by humans. Exact substring occurrence confirms provenance only. Fixed three-label macro-F1 includes absent classes as zero; report class counts.",
+  "study_note": "60 balanced development claim/abstract pairs; no fine-tuning, retrieval benchmark or new scope annotations. Neutral uses SciFact cases without labeled evidence and their first cited abstract. Full-abstract NLI is truncated to 512 tokens. Mechanically selected quotes validate occurrence only, not supporting rationale.",
+  "model": {
+    "name": "cross-encoder/nli-MiniLM2-L6-H768",
+    "revision": "b95119ce93d3e065de6214e38cd4a97b0f2f2c6d",
+    "device": "cpu",
+    "label_order": [
+      "contradicted",
+      "supported",
+      "insufficient"
+    ],
+    "torch": "2.14.1",
+    "task": "General-domain pretrained NLI transferred without fitting to SciFact development data"
+  }
+}
