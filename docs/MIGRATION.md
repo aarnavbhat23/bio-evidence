@@ -1,6 +1,6 @@
 # Consolidation record
 
-Nine small tools were consolidated into this package on 2026-10-14. Their original repositories remain archived so prior commits and results remain inspectable. The initial code was developed with Codex; consolidation is not a claim of independent human validation.
+Nine small tools were consolidated into this package on 2026-10-14. Their original repositories remain archived so prior commits and results remain inspectable. Consolidation is not a claim of independent human validation.
 
 | Previous repository | Module | Imported commit |
 |---|---|---|

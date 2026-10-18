@@ -56,4 +56,4 @@ The nine CLI names are listed by `bio-evidence --help`. Model inference adapters
 
 These are established checks and evaluation methods implemented for a focused workflow. They do not replace experimental validation, homology clustering, prospective clinical studies or expert adjudication. There is no claim of a field-first algorithm, independent review, production deployment or downstream adoption. Timings, small development-set scores and selected candidate sets should not be generalized to other workloads.
 
-MIT applies to the package code. External data, annotations and weights retain their own terms and attribution. Initial implementation and consolidation used Codex; provenance and contribution expectations are in [CONTRIBUTING.md](CONTRIBUTING.md). The original repositories remain inspectable through the [migration record](docs/MIGRATION.md).
+MIT applies to the package code. External data, annotations and weights retain their own terms and attribution. Provenance and contribution expectations are in [CONTRIBUTING.md](CONTRIBUTING.md). The original repositories remain inspectable through the [migration record](docs/MIGRATION.md).

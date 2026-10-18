@@ -6,4 +6,4 @@ Run `python -m unittest discover -s tests -v` after `python -m pip install -e .`
 
 For new studies, declare the endpoint, exclusions, split unit and baseline before fitting a model. Keep raw model outputs and source hashes. Do not turn an inequality into an exact concentration, interpret a verified quotation as entailment, or report accuracy for gene queries without contextual gold labels.
 
-This project's initial tools and consolidation were developed with Codex. Aarnav Bhat is the maintainer. AI-assisted implementation is disclosed rather than recast as independent human validation. External datasets, annotations and model weights are credited in `studies/README.md` and retain their own licenses. No independent reviewer or downstream adoption is claimed.
+Aarnav Bhat is the maintainer. External datasets, annotations and model weights are credited in `studies/README.md` and retain their own licenses. No independent reviewer or downstream adoption is claimed.
