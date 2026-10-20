@@ -5664,5 +5664,5 @@
     }
   ],
   "data_kind": "real public data; transformed by the documented case recipe",
-  "study_note": "Experimental NMR ensemble for PDB 1L2Y (doi:10.2210/pdb1L2Y/pdb). This checks real coordinate correspondence and rigid alignment; it is not an AI seed benchmark or a thermodynamic flexibility estimate."
+  "study_note": "Experimental NMR ensemble for PDB 1L2Y (doi:10.2210/pdb1L2Y/pdb). This checks real coordinate correspondence and rigid alignment; it is not a prediction-seed benchmark or a thermodynamic flexibility estimate."
 }

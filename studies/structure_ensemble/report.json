@@ -3601,7 +3601,7 @@
     }
   ],
   "interpretation": "Global rigid alignment over all supplied chains. Fixed chain correspondence; symmetry permutations and domainwise alignment are not attempted. Consistency is not accuracy or thermodynamic flexibility.",
-  "study_note": "Experimental NMR ensemble for PDB 1L2Y (doi:10.2210/pdb1L2Y/pdb). This checks real coordinate correspondence and rigid alignment; it is not an AI seed benchmark or a thermodynamic flexibility estimate.",
+  "study_note": "Experimental NMR ensemble for PDB 1L2Y (doi:10.2210/pdb1L2Y/pdb). This checks real coordinate correspondence and rigid alignment; it is not a prediction-seed benchmark or a thermodynamic flexibility estimate.",
   "source_files": [
     "trpcage.pdb"
   ]

@@ -87,7 +87,7 @@ def structures_case(cache):
     text=(cache/'trpcage.pdb').read_text()
     models=parse_ensemble(text,'1L2Y')
     return write_case('structure_ensemble',{'models':models},structure_ensemble.analyze,['trpcage.pdb'],
-                      'Experimental NMR ensemble for PDB 1L2Y (doi:10.2210/pdb1L2Y/pdb). This checks real coordinate correspondence and rigid alignment; it is not an AI seed benchmark or a thermodynamic flexibility estimate.')
+                      'Experimental NMR ensemble for PDB 1L2Y (doi:10.2210/pdb1L2Y/pdb). This checks real coordinate correspondence and rigid alignment; it is not a prediction-seed benchmark or a thermodynamic flexibility estimate.')
 
 def drift_case(cache):
     data=json.loads((cache/'atlas-embeddings.json').read_text())
